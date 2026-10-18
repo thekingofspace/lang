@@ -81,6 +81,8 @@
   "subtitles.scp_unleashed.scp173_crumble": "Statue crumbles",
   "subtitles.scp_unleashed.scp173_glance": "Pickaxe glances off",
   "subtitles.scp_unleashed.scp173_clone": "Stone grinds nearby",
+  "gamerule.scp173Cloning": "SCP-173: copies grow from its residue",
+  "gamerule.scp173Cloning.description": "When off, SCP-173 no longer forms new copies of itself from its residue. Copies that already exist stay, and the operator clone command still works.",
   "subtitles.scp_unleashed.scp173_door": "Door is shoved open",
   "subtitles.scp_unleashed.scp173_pod_alarm": "Eye pod chirps in alarm",
   "commands.scp_unleashed.scp173.status.clinging": "It is clinging to a wall.",

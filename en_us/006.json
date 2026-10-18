@@ -54,5 +54,7 @@
   "jei.scp_unleashed.info.scp006_bucket.1": "A bucket of SCP-006. It pours, flows and pools like ordinary water, and an empty bucket scoops it back up.",
   "jei.scp_unleashed.info.scp006_bucket.2": "Whatever lives and touches it is mended: hurts, sickness and stranger troubles alike. It does not choose whom it helps.",
   "archive.scp_unleashed.notes.scp006.0": "A courier brings the stone vessel by hand.",
-  "archive.scp_unleashed.notes.scp006.1": "It mends anything that touches it. Anything."
+  "archive.scp_unleashed.notes.scp006.1": "It mends anything that touches it. Anything.",
+  "subtitles.scp_unleashed.scp006_swim": "Spring water sloshes",
+  "subtitles.scp_unleashed.scp006_splash": "Spring water splashes"
 }

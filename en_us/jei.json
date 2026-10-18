@@ -460,9 +460,9 @@
   "jei.scp_unleashed.info.industrial_turbine.1": "A 3 by 2 by 6 turbine for big plants. It makes %s SP from every mB of steam, up to %s SP/t, and takes steam through three separate inlets on top, up to %s mB a second each.",
   "jei.scp_unleashed.info.industrial_turbine.2": "Give every inlet its own vent line and every orange exhaust collar on the back its own way out, best into a cooling tower. Its heavy rotor takes %s seconds to come up to full speed and keeps turning for a while after the steam stops.",
   "jei.scp_unleashed.info.facility_sign_header.1": "A header banner three blocks wide that goes over a gate. Place it on the middle block above the gate and it reaches one block to each side. It can also hang from a ceiling, readable from both sides.",
-  "jei.scp_unleashed.info.facility_sign_header.2": "Two matching gate signs make one header.",
+  "jei.scp_unleashed.info.facility_sign_header.2": "Made at the Decorations Workbench.",
   "jei.scp_unleashed.info.facility_sign.1": "A wayfinding sign two blocks wide in a gunmetal frame. It mounts on a wall or hangs from a ceiling on two rods, where both sides can be read. It needs two free spaces side by side.",
   "jei.scp_unleashed.info.facility_sign.2": "Use it with an empty hand to turn the arrow right, down, left, up or off. Sneak to turn it back.",
-  "jei.scp_unleashed.info.facility_sign.3": "Any facility sign can be cut into another design on a stonecutter. A large sign cuts into two small plaques.",
+  "jei.scp_unleashed.info.facility_sign.3": "Every facility sign and plaque is made at the Decorations Workbench.",
   "jei.scp_unleashed.info.facility_sign_small.1": "A one block wayfinding plaque in a gunmetal frame for doors and tight spots. It mounts on a solid wall."
 }

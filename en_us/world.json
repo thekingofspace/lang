@@ -11,5 +11,13 @@
   "destination.scp_unleashed.earth": "Earth",
   "destination.scp_unleashed.moon": "The Moon",
   "satellite.scp_unleashed.target.blank": "Unknown",
-  "biome.scp_unleashed.moon_highlands": "Lunar Highlands"
+  "biome.scp_unleashed.moon_highlands": "Lunar Highlands",
+  "subtitles.scp_unleashed.oil_swim": "Oil sloshes",
+  "subtitles.scp_unleashed.oil_splash": "Oil splashes",
+  "subtitles.scp_unleashed.oil_flow": "Oil flows",
+  "subtitles.scp_unleashed.oil_bubble": "Oil bubbles",
+  "subtitles.scp_unleashed.waste_water_swim": "Waste water sloshes",
+  "subtitles.scp_unleashed.waste_water_splash": "Waste water splashes",
+  "subtitles.scp_unleashed.waste_water_flow": "Waste water flows",
+  "subtitles.scp_unleashed.waste_water_bubble": "Waste water bubbles"
 }

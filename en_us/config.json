@@ -43,6 +43,8 @@
   "config.scp_unleashed.anomaly_drops.other_containers.tooltip": "With the drop anomalies on death game rule on, anomalies packed in any other item that holds items also drop.",
   "config.scp_unleashed.warhead_effects": "Alpha Warhead effects",
   "config.scp_unleashed.warhead_effects.tooltip": "Flashes, screen shake, the red alert overlay, the blast cloud, sirens and blast sounds of the Alpha Warhead. Turn off to skip them for you only. The countdown, announcements and the blast itself are unchanged.",
+  "config.scp_unleashed.post_effects": "Screen post-processing",
+  "config.scp_unleashed.post_effects.tooltip": "Full-screen blurs, hazes and vision filters, such as the SCP-106 pocket dimension blur, rift distortion and the flashbang blur. Turn off if they slow your game or clash with shader packs or other mods. Effects with a simple overlay show that instead.",
   "gamerule.scpRedFingerDomains": "Z-0002: the red finger can open its domain",
   "gamerule.scpRedFingerDomains.description": "When off, the red finger stays inert in every hand.",
   "gamerule.scpZ0003PlayerTimeout": "Z-0003: players break free after 30 seconds",

@@ -48,7 +48,7 @@
   "tooltip.scp_unleashed.scp127.regrowth.2": "steady",
   "tooltip.scp_unleashed.scp127.regrowth.3": "eager",
   "tooltip.scp_unleashed.scp127.no_reload": "Takes no ammunition: its magazine regrows on its own",
-  "tooltip.scp_unleashed.scp127.storage": "Fits only a Tall Storage Container",
+  "tooltip.scp_unleashed.scp127.storage": "Fits only in a Tall Storage Container",
   "message.scp_unleashed.scp127_level_up": "SCP-127 shudders in your grip and settles, heavier than before. Level %s.",
   "hud.scp_unleashed.scp127.regrowing": "Regrowing...",
   "commands.scp_unleashed.scp127.give": "Gave SCP-127 to %s",

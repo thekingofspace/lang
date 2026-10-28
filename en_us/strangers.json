@@ -392,5 +392,10 @@
   "notice.scp_unleashed.stranger.scp224_grandfather.other": "A kindly old stranger is watching %s",
   "discord.scp_unleashed.stranger.appeared": "%1$s appeared to %2$s",
   "discord.scp_unleashed.stranger.delivered": "%1$s handed %2$s a delivery",
-  "discord.scp_unleashed.stranger.left": "%1$s left %2$s"
+  "discord.scp_unleashed.stranger.left": "%1$s left %2$s",
+  "stranger.scp_unleashed.scp500.0": "You read the file. Here, take the bottle. Mind the cap, it fights back.",
+  "stranger.scp_unleashed.scp500.1": "One capsule puts a person right. Hurt, sick, starving, whatever the other files left in them. All of it.",
+  "stranger.scp_unleashed.scp500.2": "It only ever holds eight. Count them before you start handing them out.",
+  "stranger.scp_unleashed.scp500.3": "Leave it be for a while and you will find it full again. Don't ask me how. I stopped asking.",
+  "stranger.scp_unleashed.scp500.4": "Don't waste them on scratches. One day you will need one badly."
 }

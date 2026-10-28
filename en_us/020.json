@@ -63,5 +63,11 @@
   "gamerule.scp020SpreadChance": "SCP-020: spread chance (percent)",
   "gamerule.scp020SpreadChance.description": "Chance out of 100 that a random tick lets an SCP-020 patch spread to a nearby face.",
   "archive.scp_unleashed.notes.scp020.0": "A sealed green sample is on its way to you. Keep it sealed.",
-  "archive.scp_unleashed.notes.scp020.1": "The contact finds the reader. Wait somewhere under open sky."
+  "archive.scp_unleashed.notes.scp020.1": "The contact finds the reader. Wait somewhere under open sky.",
+  "item.scp_unleashed.scp020_hyperspectral_goggles": "Hyperspectral Goggles",
+  "item.scp_unleashed.scp020_hyperspectral_goggles.tooltip": "Lets you see things the eye can't.",
+  "item.scp_unleashed.scp020_hyperspectral_goggles.tooltip.details": "A filtered green lens pair in a brass bound frame. Worn on the head.",
+  "jei.scp_unleashed.info.scp020_hyperspectral_goggles.1": "Facility eyewear with a filtered green lens pair, worn on the head.",
+  "jei.scp_unleashed.info.scp020_hyperspectral_goggles.2": "Lets you see things the eye can't.",
+  "subtitles.scp_unleashed.scp020_goggles_equip": "Goggles click on"
 }

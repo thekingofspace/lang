@@ -1536,5 +1536,7 @@
   "gui.scp_unleashed.dclass_manager.status_patrol": "On patrol",
   "hud.scp_unleashed.micro_hid.spinning": "SPINNING UP %s%%",
   "hud.scp_unleashed.micro_hid.firing": "FIRING",
-  "hud.scp_unleashed.micro_hid.empty": "NO CHARGE"
+  "hud.scp_unleashed.micro_hid.empty": "NO CHARGE",
+  "gui.scp_unleashed.dossier.declassified": "DECLASSIFIED",
+  "gui.scp_unleashed.dossier.cleared": "Level %s clearance confirmed"
 }

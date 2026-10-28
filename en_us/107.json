@@ -27,8 +27,8 @@
         "text": [
           "Test 107-01: one bucket of water. Light rain began over the site within a minute and stopped of its own accord some minutes later.",
           "Test 107-02: two buckets of water, one after the other. %rThe rain lasted longer.%r",
-          "Test 107-04: %rREDACTED%r. All outdoor personnel to be treated for burns. Further tests with this material are forbidden.",
-          "Test 107-06: %rREDACTED%r. The rain that followed was discoloured. %rSee incident report 107-B.%r",
+          "Test 107-04: %rone bucket, held with tongs%r. All outdoor personnel to be treated for burns. Further tests with this material are forbidden.",
+          "Test 107-06: %rone bucket from the reactor wing%r. The rain that followed was discoloured. %rSee incident report 107-B.%r",
           "Test 107-07: one bucket of milk. A thick, pale rain followed, faintly sweet to the smell. %rEvery test compound in subject D-107-3 had to be given again from the start.%r",
           "Test 107-08: one bucket of crude oil. A slow, black rain followed, and outdoor staff came back sticky. %rSmoking breaks were suspended until every one of them had showered.%r"
         ]

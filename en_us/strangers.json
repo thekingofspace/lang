@@ -30,12 +30,12 @@
       "If anyone touches it, what is left of them will be more of it. Sweep it up carefully."
     ],
     "scp008": [
-      "You read it all the way through. Most people stop at the object class.",
+      "You read it all the way through. Then you know how dangerous it is.",
       "One vial. Sealed. It has been sealed longer than you have been alive, and it should stay that way.",
-      "It is not a poison and it is not a gas. It is a culture, and it only needs to be near you.",
-      "Glass between you and it is enough. Air is not. Neither is a door you left standing open.",
-      "If you break the seal, wear the hood. If you grow more of it, you have made a mistake you will not feel.",
-      "The file says the prognosis is poor. The file is being polite."
+      "It is not a poison. It is a culture, and it needs you to grow.",
+      "A closed door or a window between you and it is enough to keep you safe..",
+      "If you break the seal, wear protection. If you let it in, your life will be hell, and your death far worse.",
+      "Anyone it infects will die, but will not stay dead for long."
     ],
     "scp012": [
       "You read the file on the composition. Good. Then you understand why it comes to you in a case.",
@@ -45,7 +45,7 @@
       "Many have tried to finish it, and all have failed. The paper is stained with their futile efforts."
     ],
     "scp015": [
-      "You read the file. Most people stop at the first line. It says it is a pipe.",
+      "You read the file. It says it is a pipe.",
       "And it is. One length of iron pipe, the kind you walk past in any basement without a second look. Here.",
       "Set it down and it sits there like any other pipe. For a little while.",
       "Then it starts to run. Along the walls, over the ceiling, into every gap it can find. When the room runs out, it makes more room.",
@@ -53,8 +53,8 @@
     ],
     "scp016": [
       "You came out into the open. Good. This one should never be opened indoors.",
-      "One vial. Red, and heavier than it looks. Sealed, it does nothing at all.",
-      "Open, it reaches anyone who can see it. Glass stops it. Air does not. A hood is enough.",
+      "One vial. Keep it sealed and it poses no threat.",
+      "Open, it reaches anyone who can see it. A sealed door or a window can stop it Up close, a hazmat suit is enough.",
       "The ones it reaches feel wonderful. Faster. Stronger. Every minute a little more.",
       "Five minutes. Then the red comes out of them, and it does not come out as one thing.",
       "What gets up depends on how they went down. Do not let it reach anyone else."
@@ -80,7 +80,7 @@
       "A gas mask is all you need near it. Mind what follows you out of the room."
     ],
     "scp019": [
-      "You read the file, so you know what this is. A black pot, heavier than it looks, and warm when it should be cold.",
+      "You read the file, so you know what this is. A black pot, heavier than it looks, and you can feel things moving inside.",
       "Keep the lid on. Sealed, it is only pottery. You can mine it loose with a pick and set it down anywhere you like.",
       "Lift the lid and they come out of it. Six big horned ones first. Then the small pale ones, more and more of them.",
       "The pale ones only look. They search every corner they can walk to. When one finds you, it screams and they all run home.",
@@ -155,8 +155,8 @@
       "When you are done, stand it up in a tall locker. It sleeps there. I would not be the one to wake it."
     ],
     "scp129": [
-      "You read the whole file. Most people stop counting at three.",
-      "Five vials. Five greens. Sealed, not one of them does a thing.",
+      "You read the whole file. A lot to take in, hm?",
+      "Five vials. Sealed, not one of them does a thing.",
       "Open one and you will cough, or squint, or stand very still for a moment. It passes.",
       "It does not stay in the glass. It goes where people go, and it likes company.",
       "One of them is quiet. The quiet ones are the ones you should test for.",
@@ -175,7 +175,7 @@
       "Dr. Wondertainment's Dragon-Snails™! Eight fabulous colours! They glide! They munch! They puff the teeniest, tiniest flames!",
       "Twenty-four eggs in every box, and every egg hatches a brand-new pal! Feed them your greens. Watch your fingers!",
       "Keep unhatched eggs somewhere nice and cool, unless you like surprises! Dr. Wondertainment LOVES surprises!",
-      "Thank you for your custom! No refunds, no returns, no fire extinguishers included. Happy hatching!"
+      "Dr. Wondertainment is not responsible for loss of property, limb, or life. Thank you, happy hatching!"
     ],
     "scp140": [
       "You read the file on the red book. I hoped no one would. Take it. It was always going to end up with someone.",

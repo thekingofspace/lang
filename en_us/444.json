@@ -35,7 +35,7 @@
   "subtitles.scp_unleashed.scp444_hush": "A breath without words",
   "dossier.scp_unleashed.444.designation": "SCP-444",
   "dossier.scp_unleashed.444.title": "The Unknown Script",
-  "dossier.scp_unleashed.444.caption": "SCP-444 at intake, closed, as it was handed over.",
+  "dossier.scp_unleashed.444.caption": "SCP-444 at intake, closed.",
   "dossier.scp_unleashed.444.item": "SCP-444",
   "dossier.scp_unleashed.444.class": "Euclid",
   "dossier.scp_unleashed.444.page.0.title": "Special Containment Procedures:",
@@ -52,7 +52,7 @@
   "dossier.scp_unleashed.444.page.2.text.2": "Test 444-05: a member of staff was handed SCP-444 open at a diagram and told not to read the text. Subject designated SCP-444-1.",
   "dossier.scp_unleashed.444.page.2.text.3": "Test 444-06: %rProcedure withheld.%r Subject unaffected.",
   "dossier.scp_unleashed.444.page.3.title": "Addendum 444-2: Provenance",
-  "dossier.scp_unleashed.444.page.3.text": "SCP-444 has no recovery record. It was handed, closed, to a reader of this file by the unidentified individual in Foundation dress described in the files of other objects. The individual would not look at the cover. Asked what language the book was written in, the individual said that nobody has ever answered that question. See field notes.",
+  "dossier.scp_unleashed.444.page.3.text": "SCP-444 has no recovery record. It was delivered to a reader of this file. See field notes.",
   "gamerule.scp444Spread": "SCP-444: the affliction spreads",
   "gamerule.scp444Spread.description": "When off, SCP-444 only takes hold of those who read it.",
   "dossier.scp_unleashed.444.page.2.text.4": "Note 444-08: staff present during an instance's attempts to speak later showed the same symptoms. %rDistance not established.%r"

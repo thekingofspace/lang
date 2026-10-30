@@ -1,0 +1,82 @@
+{
+  "entity.scp_unleashed.scp553_butterfly": "SCP-553",
+  "item.scp_unleashed.scp553_spawn_egg": "SCP-553 Spawn Egg",
+  "block.scp_unleashed.scp553_stalactite": "Crystal Stalactite",
+  "death.attack.scp_unleashed.scp553_wings": "%1$s was overwhelmed by a swarm of %2$s",
+  "death.attack.scp_unleashed.scp553_wings.item": "%1$s was overwhelmed by a swarm of %2$s",
+  "death.attack.scp_unleashed.scp553_wings.player": "%1$s was overwhelmed by a glittering swarm while fighting %2$s",
+  "archive.scp_unleashed.notes.scp553.0": "White butterflies glitter in a cave.",
+  "jei.scp_unleashed.info.scp553_spawn_egg.1": "SCP-553, \"Crystalline Butterflies\": small butterflies of pure white crystal that live in deep caves. Safe-class.",
+  "jei.scp_unleashed.info.scp553_spawn_egg.2": "On their own they are gentle. They drift through the dark, rest with their wings folded and chime softly to one another.",
+  "jei.scp_unleashed.info.scp553_spawn_egg.3": "They raise their young in the rock of the cave itself. A colony left alone tends to grow, and a crowded colony is a very different thing from a small one.",
+  "jei.scp_unleashed.info.scp553_spawn_egg.4": "They never spawn naturally. Their file comes from the Archive.",
+  "jei.scp_unleashed.info.scp553_stalactite.1": "A slender stalactite of white crystal, left hanging from cave rock by SCP-553.",
+  "jei.scp_unleashed.info.scp553_stalactite.2": "It grows slowly and something takes shape inside it. It does not grow just anywhere.",
+  "jei.scp_unleashed.info.scp553_stalactite.3": "Struck carelessly it shatters. A gentle touch can take it down whole.",
+  "jade.scp_unleashed.scp553.calm": "Drifting peacefully",
+  "jade.scp_unleashed.scp553.resting": "Resting",
+  "jade.scp_unleashed.scp553.agitated": "Agitated",
+  "jade.scp_unleashed.scp553.chipped": "Chipped wings",
+  "jade.scp_unleashed.scp553_stalactite.growing": "Growing",
+  "jade.scp_unleashed.scp553_stalactite.stalled": "Growth has stalled",
+  "jade.scp_unleashed.scp553_stalactite.stirring": "Something stirs inside",
+  "config.jade.plugin_scp_unleashed.scp553": "SCP-553 Temperament",
+  "config.jade.plugin_scp_unleashed.scp553_stalactite": "SCP-553 Stalactite Growth",
+  "subtitles.scp_unleashed.scp553_flutter": "Crystal wings flutter",
+  "subtitles.scp_unleashed.scp553_call": "Crystal butterfly chimes",
+  "subtitles.scp_unleashed.scp553_spit": "Crystal butterfly spits",
+  "subtitles.scp_unleashed.scp553_grow": "Crystal grows",
+  "subtitles.scp_unleashed.scp553_hatch": "Stalactite cracks open",
+  "subtitles.scp_unleashed.scp553_swarm": "Crystal swarm rings",
+  "subtitles.scp_unleashed.scp553_dive": "Crystal butterfly dives",
+  "subtitles.scp_unleashed.scp553_slice": "Crystal wings slice",
+  "subtitles.scp_unleashed.scp553_hurt": "Crystal butterfly chips",
+  "subtitles.scp_unleashed.scp553_death": "Crystal butterfly shatters",
+  "dossier.scp_unleashed.553": {
+    "designation": "SCP-553",
+    "title": "Crystalline Butterflies",
+    "caption": "SCP-553 instances in the Site-37 chamber, resting beneath a stalactite that formed overnight.",
+    "item": "SCP-553",
+    "class": "Safe",
+    "page": [
+      {
+        "title": "Special Containment Procedures:",
+        "text": [
+          "The main SCP-553 colony is contained within the cave system where it was found, in %ra remote karst range in China%r. The surrounding land is listed as a munitions testing range and closed to the public. Local stories of demons living in the caves are quietly encouraged.",
+          "A secondary population is kept at Site-37 in a steel-walled chamber made to resemble the original cave. Its numbers are kept low by scheduled culling. Chamber lighting is to remain on at all times.",
+          "Staff entering the chamber keep to the marked path and wear full protective equipment. **Any instance that leaves the chamber is to be recaptured immediately, and never by a lone member of staff.**"
+        ]
+      },
+      {
+        "title": "Description:",
+        "text": [
+          "SCP-553 is a colony of winged organisms resembling butterflies made entirely of white crystal, composed mostly of calcite. No head, mouth or eyes can be identified on any instance, and how they sense their surroundings is not fully understood.",
+          "Instances drift through the dark in loose groups and rest with their wings folded upright. In flight they give off faint, high, ringing tones, which appear to be how they find their way and keep track of one another.",
+          "SCP-553 reproduces by spitting a bead of mineral fluid onto overhanging rock. A small crystal stalactite forms on the spot and grows slowly until a single new instance breaks free of it. Reproduction has only been observed in the deep parts of the cave.",
+          "On their own, instances are docile and scatter from anything that disturbs them. Larger colonies have proven very different (see Addendum 553-1)."
+        ]
+      },
+      {
+        "title": "Addendum 553-1: Incident 553-04-Gamma",
+        "text": [
+          "On %r05/21/2004%r, twenty-one instances escaped through an improperly sealed access door. Staff sent to herd them back were attacked at once. The group moved as one, circling its targets and diving at exposed faces and hands with the edges of its wings.",
+          "Nine members of staff were killed before security personnel brought the group down. Twelve instances were recaptured.",
+          "Smaller escapes on record were recovered with nets and caused no injuries."
+        ]
+      },
+      {
+        "title": "Addendum 553-2: Recovery",
+        "text": [
+          "SCP-553 came to Foundation attention through rumours of white demons in a cave system near %rthe village of Shuiyan%r. Agents found the colony roosting above a field of pale crystal spires, which proved to be its nursery. The colony took no notice of the recovery team."
+        ]
+      },
+      {
+        "title": "Addendum 553-3: Observation Notes",
+        "text": [
+          "Instances held apart from one another in separate enclosures were observed for six months. None reproduced, none showed any aggression, and several began resting in the corner nearest the chamber that held the others.",
+          "Count them every morning. If the count ever comes out higher than the day before, call security before you call me. %rDr. Halloran%r"
+        ]
+      }
+    ]
+  }
+}

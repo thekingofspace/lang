@@ -364,6 +364,36 @@
       "2": "Set it down somewhere nobody walks past. Somewhere far. Then walk away from it, and keep walking.",
       "3": "Wrapped up like this it keeps quiet. It's patient. It can afford to be.",
       "4": "If you start thinking it's hungry, you're already standing too close."
+    },
+    "scp548": {
+      "0": "You read the file, so you know why they came in this.",
+      "1": "A Transfer Pod. Its field never runs down, so they'll keep in there for as long as you need.",
+      "2": "Have something cold running before you open it. Running, not just built.",
+      "3": "Don't stand over them. You'll feel it long before you see the frost.",
+      "4": "And keep an eye on the count. There always seem to be more of them than you remember.",
+      "5": "It only opens once."
+    },
+    "scp4666": {
+      "0": "You read the file. Then you know where this leads, and that you should not go.",
+      "1": "This is a shard of a place where it is always winter. Seat it in a Contained Gateway and give the gate power. It will open.",
+      "2": "Nothing you carry goes in with you. It will all be waiting here when you come back. If you come back.",
+      "3": "There is a cabin. Stay inside after dark. Keep it warm. Keep it lit.",
+      "4": "And whatever you see at the edge of the trees, do not stand there watching it.",
+      "5": "Fourteen nights. I hope you are good at counting."
+    },
+    "scp902": {
+      "0": "You read the file. This is the box. Hear it? Sixty to the minute. It hasn't missed a beat yet.",
+      "1": "Open it if you like. Everyone does. It's empty, and it always will be.",
+      "2": "Don't bother putting anything in it. It won't take it. It's not that kind of box.",
+      "3": "Keep it somewhere quiet. You stop hearing the ticking after a while. Most people do.",
+      "4": "If it ever shows you somewhere else, don't be frightened. You'll come home."
+    },
+    "scp1762": {
+      "0": "You read the file. Then you know what's in here, or you think you do.",
+      "1": "It's only a shoebox. Lift the lid and they come out. Paper, every one of them.",
+      "2": "They won't hurt you, and you can't hurt them. Just let them fly.",
+      "3": "The lid stays off until they're ready. Don't fight it.",
+      "4": "The old staff used to say they looked like they were waiting for something. Nobody ever worked out what."
     }
   },
   "entity.scp_unleashed.stranger_figure": "Mysterious Stranger",

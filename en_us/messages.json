@@ -436,5 +436,12 @@
   "death.attack.scp_unleashed.micro_hid": "%1$s was struck down by %2$s's Micro H.I.D.",
   "death.attack.scp_unleashed.micro_hid.item": "%1$s was struck down by %2$s using %3$s",
   "death.attack.scp_unleashed.micro_hid.player": "%1$s was caught in a Micro H.I.D. beam whilst fighting %2$s",
-  "message.scp_unleashed.industrial_turbine.status": "Industrial turbine: %s, %s SP/t, rotor at %s%%, inlets %s%% / %s%% / %s%%"
+  "message.scp_unleashed.industrial_turbine.status": "Industrial turbine: %s, %s SP/t, rotor at %s%%, inlets %s%% / %s%% / %s%%",
+  "message.scp_unleashed.gateway.blank": "The socket will not take it. The shard leads nowhere.",
+  "message.scp_unleashed.gateway.refused": "The gateway will not take you.",
+  "message.scp_unleashed.amnestic_canister.masked": "You can't breathe it in through a mask.",
+  "death.attack.scp_unleashed.sulfuric_acid": "%1$s dissolved in acid",
+  "death.attack.scp_unleashed.sulfuric_acid.player": "%1$s dissolved in acid while fighting %2$s",
+  "raid.scp_unleashed.chaos_insurgency.breach": "Insurgents are setting charges to the %2$s!",
+  "raid.scp_unleashed.chaos_insurgency.breached": "A blast tears open the ground. %1$s are roping in."
 }

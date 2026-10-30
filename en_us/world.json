@@ -19,5 +19,6 @@
   "subtitles.scp_unleashed.waste_water_swim": "Waste water sloshes",
   "subtitles.scp_unleashed.waste_water_splash": "Waste water splashes",
   "subtitles.scp_unleashed.waste_water_flow": "Waste water flows",
-  "subtitles.scp_unleashed.waste_water_bubble": "Waste water bubbles"
+  "subtitles.scp_unleashed.waste_water_bubble": "Waste water bubbles",
+  "fluid_type.scp_unleashed.sulfuric_acid": "Sulfuric Acid"
 }

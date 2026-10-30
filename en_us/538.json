@@ -1,0 +1,104 @@
+{
+  "entity.scp_unleashed.scp538_shadow_spider": "SCP-538",
+  "item.scp_unleashed.scp538_spawn_egg": "SCP-538 Spawn Egg",
+  "item.scp_unleashed.transfer_pod": "Transfer Pod",
+  "item.scp_unleashed.transfer_pod.content.scp538": "SCP-538",
+  "item.scp_unleashed.transfer_pod.holds": "Holds: %s",
+  "item.scp_unleashed.transfer_pod.empty": "Nothing",
+  "item.scp_unleashed.transfer_pod.unknown": "Unreadable contents",
+  "item.scp_unleashed.transfer_pod.sealed": "Field sealed · never drains",
+  "item.scp_unleashed.transfer_pod.spent": "Spent: the seal is broken",
+  "item.scp_unleashed.transfer_pod.tooltip": "Issued only for the most dangerous entities.",
+  "item.scp_unleashed.transfer_pod.release": "Right-click a block to let it out.",
+  "item.scp_unleashed.transfer_pod.single": "It opens once. It cannot be resealed or refilled.",
+  "item.scp_unleashed.transfer_pod.never": "Its field never runs out, wherever it is kept.",
+  "item.scp_unleashed.transfer_pod.broken": "If the pod is destroyed, whatever it holds gets out.",
+  "message.scp_unleashed.transfer_pod.released": "The Transfer Pod unseals. %s is loose.",
+  "message.scp_unleashed.transfer_pod.failed": "%s could not be let out here.",
+  "message.scp_unleashed.transfer_pod.spent": "This Transfer Pod is spent.",
+  "message.scp_unleashed.transfer_pod.unknown": "The pod's contents are unreadable.",
+  "message.scp_unleashed.transfer_pod.broke_open": "A Transfer Pod broke open. %s is loose.",
+  "message.scp_unleashed.transfer_pod.refill": "Transfer Pods cannot be refilled.",
+  "message.scp_unleashed.scp538.stage.1": "Something nipped at your shadow. There is no mark.",
+  "message.scp_unleashed.scp538.stage.2": "You keep feeling something crawl across your skin.",
+  "message.scp_unleashed.scp538.stage.3": "Your shadow looks thinner than it should. It twitches when you don't.",
+  "message.scp_unleashed.scp538.stage.4": "Your shadow is coming apart at the edges.",
+  "death.attack.scp_unleashed.scp538_shadow": "%1$s came apart into shadows",
+  "death.attack.scp_unleashed.scp538_shadow.player": "%1$s came apart into shadows",
+  "archive.scp_unleashed.notes.scp538.0": "Arrives sealed. Don't open it anywhere you can't see every corner.",
+  "archive.scp_unleashed.notes.scp538.1": "Keep the lights on. All of them.",
+  "stranger.scp_unleashed.scp538.0": "You read the file. Then you know why it came in this.",
+  "stranger.scp_unleashed.scp538.1": "A Transfer Pod. We only build them for things we can't afford to lose. Its field never runs down, so there's no hurry. There's never a hurry with this one.",
+  "stranger.scp_unleashed.scp538.2": "When you open it, do it somewhere bright. Bright everywhere. Under things too.",
+  "stranger.scp_unleashed.scp538.3": "They like the shade. Leave them in it and they leave you alone, mostly.",
+  "stranger.scp_unleashed.scp538.4": "If the lights flicker, don't stand still. And don't let one near your shadow.",
+  "stranger.scp_unleashed.scp538.5": "It only opens once. Whatever you decide, you decide it the first time.",
+  "jei.scp_unleashed.info.scp538_spawn_egg.1": "SCP-538, \"Shadow Spiders\": living shadows in the shape of small spiders. Keter-class.",
+  "jei.scp_unleashed.info.scp538_spawn_egg.2": "In a well-lit room they keep to the shade, under ledges, in corners and beneath furniture, and leave people alone.",
+  "jei.scp_unleashed.info.scp538_spawn_egg.3": "When the light falters they grow bold. They go for a person's shadow, and one bite is enough.",
+  "jei.scp_unleashed.info.scp538_spawn_egg.4": "Blades and arrows pass straight through them. They have never been found anywhere dark.",
+  "jei.scp_unleashed.info.scp538_spawn_egg.5": "It never spawns naturally. It arrives sealed in a Transfer Pod.",
+  "jei.scp_unleashed.info.transfer_pod.1": "A sealed Transfer Pod holding %s.",
+  "jei.scp_unleashed.info.transfer_pod.2": "Its stasis field is sealed for good. It never drains and never runs out, wherever the pod is kept.",
+  "jei.scp_unleashed.info.transfer_pod.3": "Right-click a block to open it. It opens once, and the pod cannot be resealed or refilled.",
+  "jei.scp_unleashed.info.transfer_pod.4": "Transfer Pods are issued only for the most dangerous entities. They arrive loaded and are never handed out empty.",
+  "jei.scp_unleashed.info.transfer_pod.spent.1": "A spent Transfer Pod. Its seal is broken and it holds nothing.",
+  "jei.scp_unleashed.info.transfer_pod.spent.2": "A spent pod cannot be resealed or refilled.",
+  "jade.scp_unleashed.scp538.still": "Keeping to the shade",
+  "jade.scp_unleashed.scp538.restless": "Restless",
+  "jade.scp_unleashed.scp538.hunting": "Hunting",
+  "jade.scp_unleashed.scp538.scattering": "Scattering",
+  "jade.scp_unleashed.scp538.thinning": "Thinning away",
+  "jade.scp_unleashed.scp538.overhead": "Clinging overhead",
+  "jade.scp_unleashed.scp538.wall": "Clinging to the wall",
+  "config.jade.plugin_scp_unleashed.scp538": "SCP-538 Behaviour",
+  "subtitles.scp_unleashed.scp538_skitter": "Shadow skitters",
+  "subtitles.scp_unleashed.scp538_hiss": "Shadow hisses",
+  "subtitles.scp_unleashed.scp538_bite": "Shadow bites",
+  "subtitles.scp_unleashed.scp538_fade": "Shadow fades",
+  "subtitles.scp_unleashed.scp538_burst": "Shadows burst loose",
+  "subtitles.scp_unleashed.scp538_crawl": "Something crawls",
+  "subtitles.scp_unleashed.scp538_onset": "A shadow is bitten",
+  "subtitles.scp_unleashed.scp538_pass": "Blow passes through a shadow",
+  "subtitles.scp_unleashed.transfer_pod_unseal": "Transfer Pod unseals",
+  "dossier.scp_unleashed.538": {
+    "designation": "SCP-538",
+    "title": "Shadow Spiders",
+    "caption": "SCP-538 instances in a ceiling corner of their chamber. Each is roughly the size of a hand.",
+    "item": "SCP-538",
+    "class": "Keter",
+    "page": [
+      {
+        "title": "Special Containment Procedures:",
+        "text": [
+          "SCP-538 is kept in a sealed chamber with white walls, floor and ceiling, lit evenly from every side by overhead fixtures. **The chamber lights are never to be switched off.** Spare fixtures and an independent supply are kept outside the airlock.",
+          "The chamber holds no furniture. Ledges, shelving and anything else that casts shade are not to be brought inside.",
+          "A failed fixture is to be replaced at once by two personnel in sealed suits, moving slowly. Both are to be checked under strong light in the airlock before leaving. %rFurther measures withheld.%r",
+          "Bitten personnel are to report it immediately. Concealing a bite is grounds for reassignment."
+        ]
+      },
+      {
+        "title": "Description:",
+        "text": [
+          "SCP-538 is a population of animate shadows shaped like small spiders, each roughly the size of a hand and only a few millimetres thick. Instances cling to floors, walls and ceilings alike and cast no shadow of their own.",
+          "In strong, steady light instances are passive. They gather where shade would naturally fall: in corners, under ledges and beneath furniture, and they creep slowly between such places.",
+          "When light falters instances grow agitated and seek out nearby people. An instance bites at its target's shadow and then flees. Every other instance present flees from the bitten person as well.",
+          "Bitten subjects report a sting with no visible wound, followed by the sensation of something crawling across them, and later by glimpses of spiders at the edge of their vision. The process ends with the subject's shadow coming apart into a number of new instances.",
+          "Conventional weapons pass through instances without effect. No instance has ever been recovered from a dark room."
+        ]
+      },
+      {
+        "title": "Addendum 538-1: Incident Log",
+        "text": [
+          "During a routine inspection, a fault cut power to the containment wing and the chamber sealed with Dr. %rHale%r still inside. The lights were out of service for twenty-three minutes.",
+          "Dr. %rHale%r was escorted out once power returned. He repeated that he could \"feel them crawling\" for some days afterwards. No bite was found. He has since been reassigned at his own request.",
+          "Following this incident, every inspection is attended by two members of security carrying high-output torches."
+        ]
+      },
+      {
+        "title": "Addendum 538-2: Recovery",
+        "text": "SCP-538 was delivered to a reader of this file inside a Transfer Pod by the unidentified individual in Foundation dress described in the files of other objects. Transfer Pods are issued only for the most dangerous entities. Their field never runs down, and each opens only once. Asked where the pod should be opened, the individual said only: \"Somewhere bright.\""
+      }
+    ]
+  }
+}

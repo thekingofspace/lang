@@ -1,0 +1,64 @@
+{
+  "entity.scp_unleashed.scp529_cat": "SCP-529",
+  "entity.scp_unleashed.scp529_cat.name": "Josie",
+  "item.scp_unleashed.scp529_spawn_egg": "SCP-529 Spawn Egg",
+  "archive.scp_unleashed.notes.scp529.0": "A friendly grey tabby keeps turning up at back doors, asking to be let in.",
+  "archive.scp_unleashed.notes.scp529.1": "Everyone who feeds her says she stops short somehow.",
+  "jei.scp_unleashed.info.scp529_spawn_egg.1": "SCP-529, \"Josie the Half-Cat\": a grey tabby house cat who ends just behind her ribs. Josie gets about as though the rest of her were still there. Safe-class.",
+  "jei.scp_unleashed.info.scp529_spawn_egg.2": "Josie is affectionate and curious. She belongs to nobody and takes no orders, but she warms quickly to anyone who shares a bit of fish.",
+  "jei.scp_unleashed.info.scp529_spawn_egg.3": "She enjoys a gentle hand, though not everywhere. Mind what you feed her.",
+  "jei.scp_unleashed.info.scp529_spawn_egg.4": "She never spawns naturally. Her file comes from the Archive.",
+  "jade.scp_unleashed.scp529.designation": "SCP-529",
+  "jade.scp_unleashed.scp529.restless": "Restless and yowling",
+  "jade.scp_unleashed.scp529.asleep": "Fast asleep",
+  "jade.scp_unleashed.scp529.loaf": "Tucked into a loaf",
+  "jade.scp_unleashed.scp529.stray": "A friendly stray",
+  "config.jade.plugin_scp_unleashed.scp529": "SCP-529 Mood",
+  "subtitles.scp_unleashed.scp529_meow": "Josie meows",
+  "subtitles.scp_unleashed.scp529_trill": "Josie trills",
+  "subtitles.scp_unleashed.scp529_mew": "Josie mews",
+  "subtitles.scp_unleashed.scp529_purr": "Josie purrs",
+  "subtitles.scp_unleashed.scp529_hiss": "Josie hisses",
+  "subtitles.scp_unleashed.scp529_hurt": "Josie hurts",
+  "subtitles.scp_unleashed.scp529_death": "Josie dies",
+  "subtitles.scp_unleashed.scp529_eat": "Josie eats",
+  "subtitles.scp_unleashed.scp529_beg": "Josie begs",
+  "subtitles.scp_unleashed.scp529_yowl": "Josie yowls",
+  "subtitles.scp_unleashed.scp529_swat": "Josie swats",
+  "dossier.scp_unleashed.529": {
+    "designation": "SCP-529",
+    "title": "Josie the Half-Cat",
+    "caption": "SCP-529 on her favourite chair in the Level %r3%r break room. She agreed to the photograph for one sardine.",
+    "item": "SCP-529",
+    "class": "Safe",
+    "page": [
+      {
+        "title": "Special Containment Procedures:",
+        "text": [
+          "No special precautions have yet proven necessary. SCP-529, known to staff as \"Josie\", is affectionate and free to roam the lower levels of the facility. She has never accepted an owner or a command, though she seeks out staff she is fond of.",
+          "Staff may feed SCP-529 fish. **Staff are not permitted to feed SCP-529 cheese.**",
+          "Personnel who wish to pet SCP-529 are advised to keep to her head and shoulders."
+        ]
+      },
+      {
+        "title": "Description:",
+        "text": [
+          "SCP-529 is a small female house cat with grey tabby markings. Every part of her behind the end of the ribcage is missing. Her body stops sharply, as though sliced in two.",
+          "In spite of this, SCP-529 has no health problems and moves about as if her hindquarters were still in place.",
+          "The cut does not show the inside of the animal. It looks pure black to the eye and gives slightly to the touch. Her hindquarters are not invisible. A quick look confirms there is simply nothing there.",
+          "Some time after eating, SCP-529 scratches at the floor as though covering something up."
+        ]
+      },
+      {
+        "title": "Addendum 529-1: Recovery",
+        "text": [
+          "SCP-529 came to Foundation attention after a fishmonger in %rHarrowgate%r reported a stray that \"wasn't all there\". She walked out from behind the ice chests to meet the recovery agent and has shown no interest in leaving since."
+        ]
+      },
+      {
+        "title": "Addendum 529-2: Note",
+        "text": "Following Incident 529-03, in which a junior researcher shared half a cheese sandwich with SCP-529, the restriction on cheese is to be observed without exception. Dr. %rVale%r has asked for earplugs."
+      }
+    ]
+  }
+}

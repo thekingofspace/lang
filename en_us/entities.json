@@ -96,5 +96,7 @@
   "entity.scp_unleashed.serpents_hand_agent": "Serpent's Hand Agent",
   "entity.scp_unleashed.chaos_insurgent": "Chaos Insurgent",
   "entity.scp_unleashed.serpents_hand_seal": "Serpent's Hand Seal",
-  "entity.scp_unleashed.chaos_helicopter": "Chaos Insurgency Helicopter"
+  "entity.scp_unleashed.chaos_helicopter": "Chaos Insurgency Helicopter",
+  "entity.scp_unleashed.intro_scientist": "Dr. ████",
+  "entity.scp_unleashed.intro_staff": "Site Staff"
 }

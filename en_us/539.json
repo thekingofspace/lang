@@ -1,0 +1,108 @@
+{
+  "item.scp_unleashed.scp539_stone": "SCP-539 The Perfect Distraction",
+  "item.scp_unleashed.scp539_stone.tooltip": "A flat, smooth grey stone that sits just right between finger and thumb. It is hard to stop looking at.",
+  "item.scp_unleashed.scp539_stone.detail.0": "Use to throw it",
+  "item.scp_unleashed.scp539_stone.detail.1": "Everyone nearby will want to watch",
+  "entity.scp_unleashed.scp539_stone": "SCP-539",
+  "entity.scp_unleashed.scp539_helicopter": "SCP-539-1",
+  "config.jade.plugin_scp_unleashed.scp539_stone": "SCP-539 Stone",
+  "config.jade.plugin_scp_unleashed.scp539_helicopter": "SCP-539-1",
+  "jade.scp_unleashed.scp539_stone": "Hard to look away from",
+  "jade.scp_unleashed.scp539_helicopter": "Absolutely certain of itself",
+  "jei.scp_unleashed.info.scp539_stone.1": "SCP-539, the Perfect Distraction, is a flat and very smooth grey stone of no known make. It skips across water beautifully.",
+  "jei.scp_unleashed.info.scp539_stone.2": "Use it to throw it. Anyone close by will find it very hard not to watch it fly, and harder still to talk about anything else for a while afterwards. It always lands as the same stone.",
+  "jei.scp_unleashed.info.scp539_stone.3": "It cannot be crafted. Recover the SCP-539 dossier from an Archive Terminal and break its seal. A courier in Foundation dress will bring it to you.",
+  "gui.scp_unleashed.scp539.greatest_plan": "THIS IS THE GREATEST PLANNNNNN",
+  "death.attack.scp_unleashed.scp539_helicopter": "Dammit charles",
+  "death.attack.scp_unleashed.scp539_helicopter.player": "Dammit charles",
+  "death.attack.scp_unleashed.scp539_helicopter.item": "Dammit charles",
+  "subtitles.scp_unleashed.scp539_throw": "Stone flung",
+  "subtitles.scp_unleashed.scp539_skip": "Stone skips on water",
+  "subtitles.scp_unleashed.scp539_land": "Stone clatters",
+  "subtitles.scp_unleashed.scp539_notice": "Something catches the eye",
+  "subtitles.scp_unleashed.scp539_helicopter_rotor": "Helicopter closes in fast",
+  "subtitles.scp_unleashed.scp539_helicopter_thump": "Rotor thumps",
+  "subtitles.scp_unleashed.scp539_helicopter_bonk": "Helicopter bonks someone",
+  "subtitles.scp_unleashed.scp539_helicopter_crash": "Helicopter crashes",
+  "archive.scp_unleashed.notes.scp539.0": "A courier brings the stone by hand.",
+  "archive.scp_unleashed.notes.scp539.1": "Everyone watches it fly. Then they will not stop talking about it.",
+  "stranger.scp_unleashed.scp539.0": "You read the file, so this is yours now. It is only a rock. Please do not look at me like that.",
+  "stranger.scp_unleashed.scp539.1": "Keep it in its case. Do not throw it unless you have a very good reason, and a range with nobody you care about standing around.",
+  "stranger.scp_unleashed.scp539.2": "If you do throw it, everyone nearby is going to watch it. Everyone. Then they will want to talk about it for a while.",
+  "stranger.scp_unleashed.scp539.3": "It is smooth and flat and it skips beautifully. That is the problem.",
+  "stranger.scp_unleashed.scp539.4": "Oh, and whatever you do, do not get clever with it. The last person who had a plan is still filling out forms.",
+  "message.scp_unleashed.scp539.rock.0": "Did anyone else see that rock? Lovely rock.",
+  "message.scp_unleashed.scp539.rock.1": "That rock had a really nice arc to it.",
+  "message.scp_unleashed.scp539.rock.2": "I keep thinking about the rock.",
+  "message.scp_unleashed.scp539.rock.3": "Honestly the rock is the best thing that happened to me today.",
+  "message.scp_unleashed.scp539.rock.4": "Such a flat little thing. Perfect for skipping.",
+  "message.scp_unleashed.scp539.rock.5": "Can we talk about the rock for a second?",
+  "message.scp_unleashed.scp539.rock.6": "That was a very good rock.",
+  "message.scp_unleashed.scp539.rock.7": "I hope the rock is doing okay out there.",
+  "message.scp_unleashed.scp539.rock.8": "I would trust that rock with my life.",
+  "message.scp_unleashed.scp539.rock.9": "You ever just think about a rock? Because I am thinking about a rock.",
+  "message.scp_unleashed.scp539.rock.10": "The rock was so smooth. Smoother than any rock I know.",
+  "message.scp_unleashed.scp539.rock.11": "Where did the rock go? I miss it already.",
+  "message.scp_unleashed.scp539.rock.12": "Somebody should give that rock a name.",
+  "message.scp_unleashed.scp539.rock.13": "That rock looked like it knew exactly where it was going.",
+  "message.scp_unleashed.scp539.rock.14": "Ten out of ten rock. Would watch again.",
+  "message.scp_unleashed.scp539.rock.15": "Best rock I have seen all week.",
+  "message.scp_unleashed.scp539.rock.16": "I think the rock and I had a moment.",
+  "message.scp_unleashed.scp539.rock.17": "The way it flew. Wow.",
+  "message.scp_unleashed.scp539.rock.18": "Rock. Rock rock rock. Sorry, what were we talking about?",
+  "message.scp_unleashed.scp539.rock.19": "My grandmother had a rock just like that. Well, nearly.",
+  "message.scp_unleashed.scp539.rock.20": "Is it weird that I am proud of that rock?",
+  "message.scp_unleashed.scp539.rock.21": "We should build the rock a little shelf.",
+  "message.scp_unleashed.scp539.rock.22": "Can I hold the rock? Just for a minute?",
+  "message.scp_unleashed.scp539.rock.23": "Nobody talk to me. I am thinking about the rock.",
+  "message.scp_unleashed.scp539.rock.24": "I could look at that rock all day.",
+  "message.scp_unleashed.scp539.rock.25": "That rock is the calmest thing in this whole place.",
+  "message.scp_unleashed.scp539.rock.26": "If the rock were a person I think we would be friends.",
+  "message.scp_unleashed.scp539.rock.27": "I have never respected a rock this much before.",
+  "dossier.scp_unleashed.539": {
+    "designation": "SCP-539",
+    "title": "The Perfect Distraction",
+    "caption": "SCP-539 at intake, laid on felt beside a scale rule. Every researcher present asked for a copy of this photograph.",
+    "item": "SCP-539",
+    "class": "Euclid",
+    "page": [
+      {
+        "title": "Special Containment Procedures:",
+        "text": [
+          "SCP-539 is kept in a padded, locked case inside a standard secure storage locker. The case may only be opened with a supervisor of Level 2 clearance or higher present.",
+          "Physical contact with SCP-539 is not permitted outside of approved testing. **SCP-539 is never to be thrown in a populated area.** Approved throws take place on an open range, with the tester standing well away from any observers.",
+          "Personnel who have watched SCP-539 in flight are excused from briefings, interviews and radio duty until they stop talking about it."
+        ]
+      },
+      {
+        "title": "Description:",
+        "text": [
+          "SCP-539 is a thin, rounded disc of smooth grey stone, about the size of a palm. Its edge carries fine pitting that resembles corrosion, though testing has ruled out oxidation and failed to identify the stone itself.",
+          "When SCP-539 is thrown, every person close to it turns to watch it fly. Subjects describe a strong pull on their attention that can be fought only with great effort, and most do not try. The pull follows the stone until it comes to rest.",
+          "For a short time afterwards, subjects speak of nothing but SCP-539. They do so warmly and at length, and do not notice that they are doing it. The effect fades on its own.",
+          "SCP-539 skips across water with unusual ease. Subjects list this among its finest qualities."
+        ]
+      },
+      {
+        "title": "Addendum 539-1: Test Log",
+        "text": [
+          "Test 539-01: Security staff were told to keep their eyes on the tester at all times. The tester threw SCP-539 down the range. All four guards turned to follow it. Asked afterwards what the tester had been doing, each of them described the stone instead.",
+          "Test 539-03: SCP-539 was thrown across a flooded quarry. It skipped four times. Observers applauded, and the debrief that followed was spent deciding which skip had been the best.",
+          "Test 539-04: D-Class personnel working nearby stopped what they were doing and stood watching the stone until it landed. Two later asked if they could keep it."
+        ]
+      },
+      {
+        "title": "Addendum 539-2: Incident Log",
+        "text": [
+          "During an unapproved throw, Dr. %rWendell%r was heard telling colleagues that he had a plan. Seconds after the stone landed, a small red helicopter of no known registration, since designated SCP-539-1, arrived at speed and struck the landing site. Dr. %rWendell%r was not seriously hurt. No pilot was ever found.",
+          "The only usable audio from the site is a single voice saying \"dammit, Charles\". No member of staff named Charles was present.",
+          "Dr. %rWendell%r has since been asked to stop having plans."
+        ]
+      },
+      {
+        "title": "Addendum 539-3: Provenance",
+        "text": "SCP-539 has no recovery record. It was handed to a reader of this file by the individual in Foundation dress described in the files of other objects. The courier asked that it not be thrown indoors, and left without watching where it went. See field notes."
+      }
+    ]
+  }
+}

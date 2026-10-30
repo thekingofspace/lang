@@ -19,7 +19,7 @@
   "dossier.scp_unleashed.500.page.2.text.2": "Test 500-08: a capsule was given to an injured guard dog. It recovered fully and was back on duty the same day.",
   "dossier.scp_unleashed.500.page.2.text.3": "Test 500-11: the cabinet was sealed with three capsules inside and left untouched. When it was opened again, the count no longer matched the log. See containment procedures.",
   "dossier.scp_unleashed.500.page.3.title": "Addendum 500-2: Provenance",
-  "dossier.scp_unleashed.500.page.3.text": "SCP-500 has no recovery record. It was handed to a reader of this file by the individual in Foundation dress described in the files of other objects. The courier asked that the capsules not be wasted, and did not stay. See field notes.",
+  "dossier.scp_unleashed.500.page.3.text": "SCP-500 has no recovery record. It was delivered to a reader of this file. See field notes.",
   "block.scp_unleashed.scp500_bottle": "SCP-500 Panacea",
   "block.scp_unleashed.scp500_bottle.tooltip": "A small red pill bottle with a white cap that does not want to come off. The label has faded past reading.",
   "block.scp_unleashed.scp500_bottle.left": "Pills inside: %s",

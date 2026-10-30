@@ -42,10 +42,11 @@
   "item.scp_unleashed.scp268_cap.tooltip": "A grey-brown tweed flat cap with a short stiff brim.",
   "item.scp_unleashed.scp268_cap.tooltip.details": "Worn on the head. Nobody ever quite remembers seeing whoever has it on.",
   "jei.scp_unleashed.info.scp268_cap.1": "SCP-268 is a grey-brown tweed flat cap of a plain British cut. The label inside has been unpicked. Nothing about the cloth is unusual.",
-  "jei.scp_unleashed.info.scp268_cap.2": "Whoever wears it goes unnoticed. People and creatures alike look straight past them, and the cap seems to take no interest in what its wearer gets up to.",
+  "jei.scp_unleashed.info.scp268_cap.2": "Whoever wears it goes unnoticed. People and creatures alike look straight past them, and nothing the wearer reaches for seems to notice them either.",
   "jei.scp_unleashed.info.scp268_cap.3": "It cannot be crafted. Recover the SCP-268 dossier from an Archive Terminal and break its seal. A stranger in Foundation dress finds you and hands the cap over. It fits in a storage container.",
   "archive.scp_unleashed.notes.scp268.0": "The courier hands the cap over in person.",
   "archive.scp_unleashed.notes.scp268.1": "Count heads before and after every test.",
   "subtitles.scp_unleashed.scp268_don": "Tweed rustles",
-  "subtitles.scp_unleashed.scp268_doff": "A cap comes off"
+  "subtitles.scp_unleashed.scp268_doff": "A cap comes off",
+  "message.scp_unleashed.scp268_cap.ignored": "Nothing you reach for seems to notice you."
 }

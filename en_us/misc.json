@@ -104,5 +104,20 @@
   "discord.scp_unleashed.computer.scheduled": "Scheduled action %s",
   "discord.scp_unleashed.computer.anomalous": "%s (anomalous)",
   "discord.scp_unleashed.test.title": "Test message: %s",
-  "discord.scp_unleashed.test.description": "If you can read this, the %s category reaches this channel."
+  "discord.scp_unleashed.test.description": "If you can read this, the %s category reaches this channel.",
+  "intro.scp_unleashed.arrival.subtitle": "Somewhere on the other side",
+  "intro.scp_unleashed.arrival.title": "SITE-[REDACTED]",
+  "intro.scp_unleashed.gate.1": "Gate stable. You're clear to proceed. Keep walking, and whatever you do, don't stop halfway.",
+  "intro.scp_unleashed.gate.plate": "Control Room",
+  "intro.scp_unleashed.office.1": "Don't get up, %1$s. You were out for nineteen hours. Coffee? No. We are rationing the coffee. We are rationing a great many things now.",
+  "intro.scp_unleashed.office.2": "At 03:14 on ██/██, Sublevel [REDACTED] recorded readings our instruments were never built to record. Then they recorded nothing at all, which turned out to be worse.",
+  "intro.scp_unleashed.office.3": "The footage is very clear on one point. The chamber was sealed, the night staff had gone home, and you were the only one standing in the room when it opened.",
+  "intro.scp_unleashed.office.4": "The physicists call it a tear in the multiverse. A hole roughly the size of a door, with you standing in front of it",
+  "intro.scp_unleashed.office.5": "At 03:15, every containment cell on every Site reported empty. All of them, at once. ████ cells. The paperwork alone has put three clerks on indefinite leave.",
+  "intro.scp_unleashed.office.6": "Nothing escaped, you understand. Nothing broke out. They fell. Through your hole, into a world on the other side, and scattered across it like dropped files.",
+  "intro.scp_unleashed.office.7": "The Overseers met for eleven minutes. The vote was unanimous, which has never happened before. Since you opened it, %1$s, you are going through it.",
+  "intro.scp_unleashed.office.8": "Find them. Document them. Contain them. Do it the way the Foundation always has: carefully, quietly, and without any of our usual staff.",
+  "intro.scp_unleashed.office.9": "The gate is warm. Try not to tear anything on the way through, %1$s. We are running out of forms for that.",
+  "intro.scp_unleashed.office.plate": "Dr. ████",
+  "intro.scp_unleashed.skip_hint": "Hold to skip"
 }

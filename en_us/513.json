@@ -1,0 +1,106 @@
+{
+  "dossier.scp_unleashed.513": {
+    "designation": "SCP-513",
+    "title": "A Cowbell",
+    "caption": "SCP-513 at intake, clapper still taped, set beside a scale rule. Everyone present wore earplugs.",
+    "item": "SCP-513",
+    "class": "Euclid",
+    "page": [
+      {
+        "title": "Special Containment Procedures:",
+        "text": [
+          "SCP-513 is to be kept in a sealed storage container in a soundproofed cell, held completely still at all times. Staff entering the cell are to wear earplugs.",
+          "The housing is to be checked daily, and again after any explosion, tremor or loud noise nearby. Any sign that the housing is failing is to be reported at once. **SCP-513 is never to be rung.** %rOnly staff wearing earplugs may move it.%r",
+          "Personnel exposed to SCP-513 are to be watched by two guards at all times and are not to be left alone."
+        ]
+      },
+      {
+        "title": "Description:",
+        "text": [
+          "SCP-513 is a rusted iron cowbell, dented and pitted, with a round iron clapper. Heavy corrosion hides any markings it once had, and every attempt to clean it has failed.",
+          "Any sound made by SCP-513 affects everyone close enough to hear it. Subjects describe a sudden, heavy dread and the certainty of being watched. The feeling grows until they find they can no longer make themselves walk.",
+          "Subjects then report a tall, emaciated figure with very long arms walking towards them, passing through walls and doors on its way. This figure, designated SCP-513-1, is seen only by the subject. No other witness or camera has ever recorded it.",
+          "SCP-513 does not stay silent when left alone. It has been heard to ring while carried, while stored and while lying untouched."
+        ]
+      },
+      {
+        "title": "Addendum 513-1: Exposure Log",
+        "text": [
+          "Test 513-02: D-7781 heard SCP-513 struck once through a closed door. He asked for the lights to be turned up and kept glancing at the corners. Some time later he stopped mid step and could not move his legs. He died before staff reached the cell. No one else was present.",
+          "Test 513-05: A researcher wearing earplugs stood beside SCP-513 while it was rung. She reported nothing unusual.",
+          "Test 513-07: D-9012, exposed to a single ring, was given a capsule of a restorative anomaly described in another file. The dread lifted at once and he saw nothing further. %rFurther use for this purpose requires approval.%r"
+        ]
+      },
+      {
+        "title": "Addendum 513-2: Recovered Note",
+        "text": "A scrap of paper was found with SCP-513. Most of the writing has faded past reading. The last line is still clear: never ring it."
+      },
+      {
+        "title": "Addendum 513-3: Recovery",
+        "text": "SCP-513 has no recovery record at this site. It was handed to a reader of this file by the individual in Foundation dress described in the files of other objects. The clapper was bound with strips of old tape, which the courier warned would not hold. See field notes."
+      }
+    ]
+  },
+  "item.scp_unleashed.scp513_bell": "SCP-513",
+  "item.scp_unleashed.scp513_bell.tooltip": "A rusted iron cowbell, dented and cold to the touch.",
+  "item.scp_unleashed.scp513_bell.taped": "Its clapper is bound with old tape.",
+  "item.scp_unleashed.scp513_bell.detail.0": "Never ring it.",
+  "item.scp_unleashed.scp513_bell.detail.1": "It does not stay quiet for long, wherever it is put.",
+  "entity.scp_unleashed.scp513_stalker": "SCP-513-1",
+  "block.scp_unleashed.storage_container_gel": "Gel Storage Container",
+  "block.scp_unleashed.storage_container_gel.tooltip": "A sealed locker that sets a block of clear gel around whatever it holds.",
+  "block.scp_unleashed.storage_container_gel.power": "Takes power from an outlet on either side",
+  "block.scp_unleashed.storage_container_gel.water": "Takes water from a pipe at the back",
+  "block.scp_unleashed.storage_container_gel.gel": "Power and water keep the gel set. Without them it soon breaks down",
+  "block.scp_unleashed.storage_container_gel.carry": "Breaking it keeps the contents and gel inside the item",
+  "block.scp_unleashed.storage_container_gel.holds": "Holds: %s",
+  "block.scp_unleashed.storage_container_gel.gel_left": "Gel: %s%%",
+  "message.scp_unleashed.scp513.taped": "The clapper is taped down. It only gives a dull knock.",
+  "message.scp_unleashed.scp513.tape_gives": "The old tape on the bell's clapper gives way.",
+  "message.scp_unleashed.storage_gel.no_fittings": "The gel container has no fittings to remove.",
+  "message.scp_unleashed.storage_gel.no_upgrades": "The gel container takes no upgrades.",
+  "config.jade.plugin_scp_unleashed.storage_container_gel": "Gel Storage Container",
+  "config.jade.plugin_scp_unleashed.scp513_bell": "SCP-513",
+  "jade.scp_unleashed.storage_container_gel.idle": "No gel",
+  "jade.scp_unleashed.storage_container_gel.forming": "Gel forming: %s%%",
+  "jade.scp_unleashed.storage_container_gel.sealed": "Gel set",
+  "jade.scp_unleashed.storage_container_gel.failing": "Gel breaking down: %s%%",
+  "jade.scp_unleashed.storage_container_gel.powered": "Powered",
+  "jade.scp_unleashed.storage_container_gel.unpowered": "No power at the sides",
+  "jade.scp_unleashed.storage_container_gel.water": "Water: %s / %s mB",
+  "jade.scp_unleashed.storage_container_gel.dry": "No water at the back",
+  "jade.scp_unleashed.scp513_bell.still": "It hangs still.",
+  "jade.scp_unleashed.scp513_bell.bound": "Its clapper is bound.",
+  "jade.scp_unleashed.scp513_bell.restless": "Something about it will not keep still.",
+  "jei.scp_unleashed.info.scp513_bell.1": "SCP-513 is an old, rusted cowbell. Whoever hears it ring is never quite alone again.",
+  "jei.scp_unleashed.info.scp513_bell.2": "It rings when shaken, and sooner or later it rings by itself, carried, stored or left lying about. The sound reaches a long way. Earplugs keep it out.",
+  "jei.scp_unleashed.info.scp513_bell.3": "The file on it describes how the Foundation keeps it quiet.",
+  "jei.scp_unleashed.info.storage_container_gel.1": "A storage container that fills its chamber with a clear gel, holding whatever is stored inside perfectly still. Open and close it like any storage container.",
+  "jei.scp_unleashed.info.storage_container_gel.2": "It draws %s SP/t from an outlet mounted on either side face. The front and back take no outlets.",
+  "jei.scp_unleashed.info.storage_container_gel.3": "It needs water piped into the inlet on its back face. While powered and watered the gel forms and stays set. If either runs out, the gel holds for a little while and then breaks down.",
+  "jei.scp_unleashed.info.storage_container_gel.4": "Breaking it keeps the contents and the gel inside the item, but nothing keeps that gel set until it is placed and supplied again. It takes no glass or upgrades.",
+  "subtitles.scp_unleashed.scp513_ring": "Rusty bell clanks",
+  "subtitles.scp_unleashed.scp513_thunk": "Muffled bell knocks",
+  "subtitles.scp_unleashed.scp513_tape_tear": "Old tape tears",
+  "subtitles.scp_unleashed.scp513_heartbeat": "Heart pounds",
+  "subtitles.scp_unleashed.scp513_dread": "Something lingers",
+  "subtitles.scp_unleashed.scp513_breath": "Shaky breathing",
+  "subtitles.scp_unleashed.scp513_step": "Heavy footsteps",
+  "subtitles.scp_unleashed.scp513_grab": "Something grabs",
+  "subtitles.scp_unleashed.scp513_choke": "Choking",
+  "subtitles.scp_unleashed.scp513_miasma": "Ash hisses",
+  "subtitles.scp_unleashed.scp513_gasp": "Someone gasps",
+  "subtitles.scp_unleashed.storage_gel_form": "Gel sets",
+  "subtitles.scp_unleashed.storage_gel_break": "Gel breaks down",
+  "subtitles.scp_unleashed.storage_gel_alarm": "Container alarm beeps",
+  "death.attack.scp_unleashed.scp513_strangled": "%1$s was strangled",
+  "death.attack.scp_unleashed.scp513_strangled.player": "%1$s was strangled",
+  "archive.scp_unleashed.notes.scp513.0": "A courier hands it over with the clapper taped.",
+  "archive.scp_unleashed.notes.scp513.1": "Any ring carries far. Earplugs help.",
+  "archive.scp_unleashed.notes.scp513.2": "Keep it still. Keep it quiet.",
+  "stranger.scp_unleashed.scp513.0": "You read the file. This one I would rather not carry any further. Take it, and keep it still.",
+  "stranger.scp_unleashed.scp513.1": "Somebody taped the clapper down a long time ago. The tape is old. It will not hold forever.",
+  "stranger.scp_unleashed.scp513.2": "If you ever hear it ring, it already knows where you are. Keep your ears plugged around it.",
+  "stranger.scp_unleashed.scp513.3": "Do not shake it to see if it still works. It works.",
+  "stranger.scp_unleashed.scp513.4": "The file says how they kept it quiet. I would read that part twice."
+}

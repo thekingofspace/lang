@@ -38,6 +38,10 @@
           "Asked about the residents, SCP-049 said: \"They were very ill. I have made them well.\" Asked what the Pestilence is, it said only that the agents carried it too. %rIt asked to examine them.%r",
           "All later interviews have been held through a closed cell door, with two armed staff present and the tray left in plain sight on SCP-049's side."
         ]
+      },
+      {
+        "title": "Addendum 049-3: Observation Note",
+        "text": "During a routine observation, SCP-049 broke off mid-sentence and withdrew to the far corner of its cell when a junior researcher began eating lunch at the window. It would not come forward again until the researcher had left. Asked about this afterwards, SCP-049 said only: \"Some remedies are not meant for me.\""
       }
     ]
   },
@@ -205,5 +209,14 @@
   "commands.scp_unleashed.scp049.away.unloaded": "that area is not loaded",
   "commands.scp_unleashed.scp049.away.late": "it did not reach the new tray in time",
   "commands.scp_unleashed.scp049.status.reach": "Reach: %s blocks out and %s blocks up, with a clear line from its hand. Gave up on %s people out of reach. Killed by touch while roaming: %s. Times it went roaming: %s.",
-  "commands.scp_unleashed.scp049.loss.no_tray": "its tray was lost"
+  "commands.scp_unleashed.scp049.loss.no_tray": "its tray was lost",
+  "jade.scp_unleashed.scp049.flee": "Backing away in alarm",
+  "jade.scp_unleashed.scp049.wary": "Keeping its distance",
+  "entity.scp_unleashed.scp049.say.recoil.0": "Put that away. At once.",
+  "entity.scp_unleashed.scp049.say.recoil.1": "Have you no respect for medicine?",
+  "entity.scp_unleashed.scp049.say.recoil.2": "Another time, then. Another time.",
+  "subtitles.scp_unleashed.scp049_recoil": "SCP-049 recoils",
+  "commands.scp_unleashed.scp049.status.fear": "Fear: alarmed %s times (last %s s ago), cornered %s times, %s spots avoided, wary for %s s more, steeled for %s s more.",
+  "commands.scp_unleashed.scp049.loss.frightened": "let go in alarm",
+  "commands.scp_unleashed.scp049.retarget.fled": "backed away"
 }

@@ -178,5 +178,9 @@
   "commands.scp_unleashed.discord.status.category.invalid": "invalid webhook %s",
   "commands.scp_unleashed.discord.status.category.master_off": "master switch off",
   "commands.scp_unleashed.discord.status.coordinates_on": "coordinates shown",
-  "commands.scp_unleashed.discord.status.coordinates_off": "coordinates hidden"
+  "commands.scp_unleashed.discord.status.coordinates_off": "coordinates hidden",
+  "commands.scp_unleashed.intro.replay": "Replaying the intro for %s",
+  "commands.scp_unleashed.intro.replay_many": "Replaying the intro for %s players",
+  "commands.scp_unleashed.intro.reset": "%s will see the intro again the next time they join",
+  "commands.scp_unleashed.intro.reset_many": "%s players will see the intro again the next time they join"
 }

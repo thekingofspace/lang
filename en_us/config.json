@@ -180,5 +180,11 @@
   "config.scp_unleashed.discord.strangers.deliveries": "Post deliveries",
   "config.scp_unleashed.discord.strangers.deliveries.tooltip": "Post what a stranger hands over.",
   "config.scp_unleashed.discord.strangers.departures": "Post departures",
-  "config.scp_unleashed.discord.strangers.departures.tooltip": "Post when a stranger leaves."
+  "config.scp_unleashed.discord.strangers.departures.tooltip": "Post when a stranger leaves.",
+  "config.scp_unleashed.skip_intro_cutscene": "Skip the intro cutscene",
+  "config.scp_unleashed.skip_intro_cutscene.tooltip": "Skips the first-join intro on every world and server you join from now on. Server admins can also turn it off for everyone with the scpIntroCutscene game rule.",
+  "gamerule.scpIntroCutscene": "Play the intro cutscene for new players",
+  "gamerule.scpIntroCutscene.description": "New players see the SCP Unleashed intro once, the first time they join. When off, they skip straight into the world.",
+  "gamerule.scpChaosBreaching": "Chaos Insurgency breaching",
+  "gamerule.scpChaosBreaching.description": "When on, the Chaos Insurgency can blast a way into bases dug underground. Mob griefing must also be on."
 }

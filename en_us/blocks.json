@@ -1442,7 +1442,7 @@
   "block.scp_unleashed.containment_room_alarm_light.tooltip": "A strobe and horn for a containment breach.",
   "block.scp_unleashed.containment_room_alarm_light.redstone": "Flashes while powered by redstone",
   "block.scp_unleashed.containment_room_lockdown_shutter": "Lockdown Shutter",
-  "block.scp_unleashed.containment_room_lockdown_shutter.tooltip": "A heavy rolling shutter, shown closed.",
+  "block.scp_unleashed.containment_room_lockdown_shutter.tooltip": "A heavy rolling shutter. It rolls up while powered.",
   "block.scp_unleashed.containment_room_lockdown_shutter.stack": "Stack it for a taller opening, the housing sits on top",
   "block.scp_unleashed.containment_room_lockdown_shutter.row": "Shutters side by side join into one wide shutter",
   "block.scp_unleashed.lcz_intercom": "Light Containment Intercom",
@@ -1620,5 +1620,18 @@
   "block.scp_unleashed.intro_gate_core": "Gate Core",
   "block.scp_unleashed.intro_gate_frame": "Gate Frame",
   "block.scp_unleashed.intro_nameplate": "Desk Nameplate",
-  "block.scp_unleashed.intro_clock": "Office Clock"
+  "block.scp_unleashed.intro_clock": "Office Clock",
+  "block.scp_unleashed.power_receiver": "Power Receiver",
+  "block.scp_unleashed.power_emitter": "Power Emitter",
+  "block.scp_unleashed.power_bridge.inbound.tooltip": "Brings power from other mods into your wire network.",
+  "block.scp_unleashed.power_bridge.inbound.front": "Takes FE through the port on its front",
+  "block.scp_unleashed.power_bridge.inbound.wiring": "Wire it up through an outlet on any other face",
+  "block.scp_unleashed.power_bridge.inbound.rate": "%s FE becomes %s SP",
+  "block.scp_unleashed.power_bridge.outbound.tooltip": "Sends power from your wire network out to other mods.",
+  "block.scp_unleashed.power_bridge.outbound.front": "Gives FE through the port on its front",
+  "block.scp_unleashed.power_bridge.outbound.wiring": "Wire it up through an outlet on any other face",
+  "block.scp_unleashed.power_bridge.outbound.rate": "%s SP becomes %s FE",
+  "block.scp_unleashed.power_bridge.buffer": "Holds up to %s FE",
+  "block.scp_unleashed.containment_room_lockdown_shutter.power": "A signal to any part moves the whole shutter",
+  "block.scp_unleashed.containment_room_lockdown_shutter.mode": "Use a screwdriver to switch to lockdown mode, where a signal brings it down instead"
 }

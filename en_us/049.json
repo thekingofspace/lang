@@ -218,5 +218,7 @@
   "subtitles.scp_unleashed.scp049_recoil": "SCP-049 recoils",
   "commands.scp_unleashed.scp049.status.fear": "Fear: alarmed %s times (last %s s ago), cornered %s times, %s spots avoided, wary for %s s more, steeled for %s s more.",
   "commands.scp_unleashed.scp049.loss.frightened": "let go in alarm",
-  "commands.scp_unleashed.scp049.retarget.fled": "backed away"
+  "commands.scp_unleashed.scp049.retarget.fled": "backed away",
+  "commands.scp_unleashed.scp049.away.shunned": "it is keeping clear of the tray for now",
+  "commands.scp_unleashed.scp049.loss.barred": "it could not get back to its tray"
 }

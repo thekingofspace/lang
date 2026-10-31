@@ -182,5 +182,18 @@
   "commands.scp_unleashed.intro.replay": "Replaying the intro for %s",
   "commands.scp_unleashed.intro.replay_many": "Replaying the intro for %s players",
   "commands.scp_unleashed.intro.reset": "%s will see the intro again the next time they join",
-  "commands.scp_unleashed.intro.reset_many": "%s players will see the intro again the next time they join"
+  "commands.scp_unleashed.intro.reset_many": "%s players will see the intro again the next time they join",
+  "commands.scp_unleashed.rift.spawn.overworld": "Rifts only open in the Overworld",
+  "commands.scp_unleashed.season.date": "Server date: %s",
+  "commands.scp_unleashed.season.line": "%1$s is %2$s, %3$s",
+  "commands.scp_unleashed.season.active": "active",
+  "commands.scp_unleashed.season.inactive": "inactive",
+  "commands.scp_unleashed.season.reason.calendar": "following the calendar (%s)",
+  "commands.scp_unleashed.season.reason.config": "set to %s in the seasons server config",
+  "commands.scp_unleashed.season.reason.session": "set to %s for this session",
+  "commands.scp_unleashed.season.mode.auto": "auto",
+  "commands.scp_unleashed.season.mode.on": "on",
+  "commands.scp_unleashed.season.mode.off": "off",
+  "commands.scp_unleashed.season.set": "%1$s is now %2$s until the server restarts",
+  "commands.scp_unleashed.season.cleared": "%s follows the config and calendar again"
 }

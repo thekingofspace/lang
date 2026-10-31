@@ -77,5 +77,7 @@
   "subtitles.scp_unleashed.z0003_break_crumble": "Stone crumbles",
   "message.scp_unleashed.z0003.armed.radius": "Z-0003 set: %s m in %s s (radius clamped to %s m)",
   "message.scp_unleashed.z0003.armed.delay": "Z-0003 set: %s m in %s s (delay clamped to %s s)",
-  "message.scp_unleashed.z0003.armed.both": "Z-0003 set: %s m in %s s (radius and delay clamped)"
+  "message.scp_unleashed.z0003.armed.both": "Z-0003 set: %s m in %s s (radius and delay clamped)",
+  "jade.scp_unleashed.z0003.clutching": "Something is clutched in a stone hand",
+  "gui.scp_unleashed.z0003.passing": "The stone will not hold you for long."
 }

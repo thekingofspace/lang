@@ -394,6 +394,12 @@
       "2": "They won't hurt you, and you can't hurt them. Just let them fly.",
       "3": "The lid stays off until they're ready. Don't fight it.",
       "4": "The old staff used to say they looked like they were waiting for something. Nobody ever worked out what."
+    },
+    "scp860": {
+      "0": "Good afternoon. Please, don't get up. I won't keep you long. My time is billed by the minute, and yours, I suspect, is not.",
+      "1": "I represent a very old firm. We offer one experience, and only one: a walk in the woods. Clean air, tall trees, a quiet path. It is an adventure only the rich can afford.",
+      "2": "Congratulations. You have just become very rich indeed. The key, and the door it belongs to. Do try not to mislay either. Replacements are not available at any price.",
+      "3": "Enjoy the forest. Everyone does, at first. When you have had your fill, you will find your way home. Most of our clients do. Good day."
     }
   },
   "entity.scp_unleashed.stranger_figure": "Mysterious Stranger",
@@ -427,5 +433,6 @@
   "stranger.scp_unleashed.scp500.1": "One capsule puts a person right. Hurt, sick, starving, whatever the other files left in them. All of it.",
   "stranger.scp_unleashed.scp500.2": "It only ever holds eight. Count them before you start handing them out.",
   "stranger.scp_unleashed.scp500.3": "Leave it be for a while and you will find it full again. Don't ask me how. I stopped asking.",
-  "stranger.scp_unleashed.scp500.4": "Don't waste them on scratches. One day you will need one badly."
+  "stranger.scp_unleashed.scp500.4": "Don't waste them on scratches. One day you will need one badly.",
+  "gui.scp_unleashed.stranger.plate.scp860_businessman": "Private Client"
 }

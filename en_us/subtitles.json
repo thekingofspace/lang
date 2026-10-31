@@ -518,5 +518,11 @@
   "subtitles.scp_unleashed.intro_voice": "Scientist speaks",
   "subtitles.scp_unleashed.chaos_insurgency_breach_plant": "Charge set down",
   "subtitles.scp_unleashed.chaos_insurgency_breach_beep": "Charge beeps",
-  "subtitles.scp_unleashed.intro_intercom_click": "Intercom clicks"
+  "subtitles.scp_unleashed.intro_intercom_click": "Intercom clicks",
+  "subtitles.scp_unleashed.power_bridge_inbound_hum": "Power Receiver hums",
+  "subtitles.scp_unleashed.power_bridge_outbound_hum": "Power Emitter hums",
+  "subtitles.scp_unleashed.power_bridge_switch": "Power bridge clicks",
+  "subtitles.scp_unleashed.lockdown_shutter_roll": "Shutter rolls",
+  "subtitles.scp_unleashed.lockdown_shutter_clunk": "Shutter clunks",
+  "subtitles.scp_unleashed.lockdown_shutter_warn": "Shutter warning beeps"
 }

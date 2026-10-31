@@ -498,5 +498,13 @@
   "jei.scp_unleashed.info.sulfur": "Mix two Sulfur with coal or charcoal for gunpowder, or feed three to an Industrial Tank with a bucket of water to make sulfuric acid.",
   "jei.scp_unleashed.info.sulfuric_acid_bucket.1": "Fuming sulfuric acid from an Industrial Tank. It burns whatever wades into it and wears armour down.",
   "jei.scp_unleashed.info.sulfuric_acid_bucket.2": "Ordinary items that fall in dissolve within moments. It flows like water but never forms new sources, so a pool has to be filled one bucket at a time.",
-  "jei.scp_unleashed.info.sulfuric_acid": "Fuming sulfuric acid. It burns living things and dissolves ordinary items."
+  "jei.scp_unleashed.info.sulfuric_acid": "Fuming sulfuric acid. It burns living things and dissolves ordinary items.",
+  "jei.scp_unleashed.info.power_bridge.inbound.1": "Brings power from other mods into your wire network.",
+  "jei.scp_unleashed.info.power_bridge.inbound.2": "Cables, generators and batteries from other mods connect to the port on its front. It also pulls FE from whatever sits there.",
+  "jei.scp_unleashed.info.power_bridge.inbound.3": "Every %s FE that comes in feeds %s SP into the network. A little is lost in the conversion.",
+  "jei.scp_unleashed.info.power_bridge.outbound.1": "Sends power from your wire network out to other mods.",
+  "jei.scp_unleashed.info.power_bridge.outbound.2": "It pushes FE into whatever sits against the port on its front, and cables from other mods can pull from it too.",
+  "jei.scp_unleashed.info.power_bridge.outbound.3": "Every %s SP it draws from the network comes out as %s FE. A little is lost in the conversion.",
+  "jei.scp_unleashed.info.power_bridge.4": "Wire it up through an outlet on any face except the front. It moves as much as its wires and outlets can carry.",
+  "jei.scp_unleashed.info.power_bridge.5": "It keeps a small buffer of %s FE to smooth out the flow."
 }

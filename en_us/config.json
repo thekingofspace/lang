@@ -186,5 +186,9 @@
   "gamerule.scpIntroCutscene": "Play the intro cutscene for new players",
   "gamerule.scpIntroCutscene.description": "New players see the SCP Unleashed intro once, the first time they join. When off, they skip straight into the world.",
   "gamerule.scpChaosBreaching": "Chaos Insurgency breaching",
-  "gamerule.scpChaosBreaching.description": "When on, the Chaos Insurgency can blast a way into bases dug underground. Mob griefing must also be on."
+  "gamerule.scpChaosBreaching.description": "When on, the Chaos Insurgency can blast a way into bases dug underground. Mob griefing must also be on.",
+  "config.scp_unleashed.seasons.halloween": "Halloween",
+  "config.scp_unleashed.seasons.halloween.tooltip": "Auto follows the server's calendar, 26 to 31 October. On keeps Halloween running all year and Off turns it off. Players always see what the server decides.",
+  "scp_unleashed.configuration.section.scp.unleashed.seasons.server.toml": "Seasonal Event Settings",
+  "scp_unleashed.configuration.section.scp.unleashed.seasons.server.toml.title": "%s: Seasonal Event Settings"
 }

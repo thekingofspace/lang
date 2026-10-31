@@ -1573,5 +1573,9 @@
   "gui.scp_unleashed.industrial_tank.progress": "Mixing: %s%%",
   "key.categories.scp_unleashed.intro": "SCP Unleashed: Intro",
   "key.scp_unleashed.intro_skip": "Skip intro (hold)",
-  "hud.scp_unleashed.guns.overheated": "Overheated"
+  "hud.scp_unleashed.guns.overheated": "Overheated",
+  "gui.scp_unleashed.instability_matrix.status.dormant": "Dormant",
+  "gui.scp_unleashed.instability_matrix.status.dormant.hint": "Rifts only form in the Overworld. It draws no power here.",
+  "gui.scp_unleashed.instability_pylon.status.dormant": "Dormant",
+  "gui.scp_unleashed.instability_pylon.status.dormant.hint": "Rifts only form in the Overworld. The field cannot charge here."
 }

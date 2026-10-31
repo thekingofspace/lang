@@ -443,5 +443,8 @@
   "death.attack.scp_unleashed.sulfuric_acid": "%1$s dissolved in acid",
   "death.attack.scp_unleashed.sulfuric_acid.player": "%1$s dissolved in acid while fighting %2$s",
   "raid.scp_unleashed.chaos_insurgency.breach": "Insurgents are setting charges to the %2$s!",
-  "raid.scp_unleashed.chaos_insurgency.breached": "A blast tears open the ground. %1$s are roping in."
+  "raid.scp_unleashed.chaos_insurgency.breached": "A blast tears open the ground. %1$s are roping in.",
+  "message.scp_unleashed.rift_conjurer.overworld": "Rifts only open in the Overworld",
+  "message.scp_unleashed.lockdown_shutter.normal": "Shutter set to roll up while powered",
+  "message.scp_unleashed.lockdown_shutter.lockdown": "Shutter set to lockdown: a signal brings it down"
 }

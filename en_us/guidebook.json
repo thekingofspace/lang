@@ -25,7 +25,7 @@
   "guidebook.scp_unleashed.page.finding_rifts": "Finding Rifts",
   "guidebook.scp_unleashed.finding_rifts.intro": "Every anomaly begins with a **rift**, a glowing tear in the air. Rifts are harmless. Each one hangs in place for %s to %s minutes and then closes.",
   "guidebook.scp_unleashed.finding_rifts.where_heading": "Where rifts open",
-  "guidebook.scp_unleashed.finding_rifts.where": "About every %s minutes a rift may open %s to %s blocks from you. In the Overworld they always open up on the surface, even while you are down a mine.",
+  "guidebook.scp_unleashed.finding_rifts.where": "About every %s minutes a rift may open %s to %s blocks from you. Rifts only open in the Overworld, and always up on the surface, even while you are down a mine.",
   "guidebook.scp_unleashed.finding_rifts.cap": "A new rift will not open while %s are already open within %s blocks of you, so collect them to make room.",
   "guidebook.scp_unleashed.finding_rifts.detector_heading": "The Rift Detector",
   "guidebook.scp_unleashed.finding_rifts.step1": "Craft a **Rift Detector** and hold it in either hand.",
@@ -425,5 +425,18 @@
   "guidebook.scp_unleashed.getting_started.generators_caption": "Click an icon to open its page.",
   "guidebook.scp_unleashed.decontamination.surface1": "A **Sterile Swab** works on blocks too. Use it on any surface and read it in the analyzer like any other swab.",
   "guidebook.scp_unleashed.decontamination.surface2": "A **Disinfecting Wipe** cleans every surface around the block you wipe, and kills anything growing there.",
-  "guidebook.scp_unleashed.decontamination.surface_heading": "Surfaces"
+  "guidebook.scp_unleashed.decontamination.surface_heading": "Surfaces",
+  "guidebook.scp_unleashed.page.power_bridges": "Power Bridges",
+  "guidebook.scp_unleashed.power_bridges.intro": "Two machines link your wire network with power from other mods, which is measured in **FE**.",
+  "guidebook.scp_unleashed.power_bridges.receiver": "The **Power Receiver** takes FE from other mods and feeds it into your network as SP.",
+  "guidebook.scp_unleashed.power_bridges.emitter": "The **Power Emitter** draws SP from your network and gives it out as FE.",
+  "guidebook.scp_unleashed.power_bridges.ports_heading": "Hooking them up",
+  "guidebook.scp_unleashed.power_bridges.front": "The port on the front is for other mods. Place the bridge against their cable, generator or machine and the port turns to face it. A screwdriver turns it too.",
+  "guidebook.scp_unleashed.power_bridges.back": "Put an outlet on any other face and wire it into your network like any other machine.",
+  "guidebook.scp_unleashed.power_bridges.rate_heading": "What the power is worth",
+  "guidebook.scp_unleashed.power_bridges.rate": "%s FE is worth %s SP. Each bridge keeps %s out of every %s that passes through it, so sending power round in a loop always loses some.",
+  "guidebook.scp_unleashed.power_bridges.limits_heading": "How much they move",
+  "guidebook.scp_unleashed.power_bridges.limits": "A bridge has no small limit of its own. It moves as much as its wires and outlets can carry, up to %s SP/t, and other mods' machines take what they can.",
+  "guidebook.scp_unleashed.power_bridges.buffer": "Each one keeps a small buffer of %s FE so the flow stays smooth.",
+  "guidebook.scp_unleashed.power_bridges.tip": "Look at a bridge to see how much is flowing. It tells you when nothing is on its front port or when it is not wired to a network."
 }

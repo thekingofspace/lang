@@ -110,5 +110,7 @@
   "subtitles.scp_unleashed.scp087_hunter_hurt": "SCP-087-3 hurts",
   "subtitles.scp_unleashed.scp087_hunter_death": "SCP-087-3 dies",
   "subtitles.scp_unleashed.scp087_silence": "The stairwell falls silent",
-  "archive.scp_unleashed.dimension.scp_unleashed.scp087_stairwell": "the stairwell"
+  "archive.scp_unleashed.dimension.scp_unleashed.scp087_stairwell": "the stairwell",
+  "arrival.scp_unleashed.scp087_stairwell.title": "STAIRWELL [REDACTED]",
+  "arrival.scp_unleashed.scp087_stairwell.subtitle": "It goes further down than it should"
 }

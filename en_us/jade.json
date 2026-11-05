@@ -501,5 +501,18 @@
   "jade.scp_unleashed.lockdown_shutter.opening": "Opening",
   "jade.scp_unleashed.lockdown_shutter.closing": "Closing",
   "jade.scp_unleashed.lockdown_shutter.closed": "Closed",
-  "config.jade.plugin_scp_unleashed.lockdown_shutter": "Lockdown Shutter"
+  "config.jade.plugin_scp_unleashed.lockdown_shutter": "Lockdown Shutter",
+  "config.jade.plugin_scp_unleashed.disperser": "SCP Disperser",
+  "jade.scp_unleashed.disperser.empty": "No sample loaded",
+  "jade.scp_unleashed.disperser.culture": "Sample: %s",
+  "jade.scp_unleashed.disperser.running": "Dispersing",
+  "jade.scp_unleashed.disperser.waiting": "Waiting for a redstone signal",
+  "jade.scp_unleashed.disperser.unpowered": "Not enough power",
+  "jade.scp_unleashed.radio_tower.masts": "Masts: %s of %s",
+  "jade.scp_unleashed.radio_tower.carrier": "Carrier: channel %s",
+  "jade.scp_unleashed.radio_tower.range": "Radio reach %s blocks, tower links %s blocks",
+  "jade.scp_unleashed.radio_tower.links": "Linked to %s towers",
+  "jade.scp_unleashed.radio_tower.alone": "No other tower in link range",
+  "jade.scp_unleashed.radio_tower.draw": "Draw: %s SP/t",
+  "config.jade.plugin_scp_unleashed.radio_booster_tower": "SCP Radio Booster Tower"
 }

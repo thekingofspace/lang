@@ -53,5 +53,17 @@
   "dossier.scp_unleashed.939.page.3.title": "Addendum 939-2: Recovery",
   "dossier.scp_unleashed.939.page.3.text": "SCP-939 were found in a cave after a reader of this file followed coordinates no one had written. The team heard someone below calling for help. %rNo one was missing.%r",
   "dossier.scp_unleashed.939.page.4.title": "Addendum 939-3: Headcount",
-  "dossier.scp_unleashed.939.page.4.text": "Small children have been found unharmed inside the cell. None could say how they got there, and each grew restless within days of being found. The headcount has risen since. %rLogs restricted.%r"
+  "dossier.scp_unleashed.939.page.4.text": "Small children have been found unharmed inside the cell. None could say how they got there, and each grew restless within days of being found. The headcount has risen since. %rLogs restricted.%r",
+  "config.scp_unleashed.voice.scp939_voice_lures": "SCP-939 voice lures",
+  "config.scp_unleashed.voice.scp939_voice_lures.tooltip": "Only with anomaly voice recording on. SCP-939 may record short clips of players talking near it and replay them from its own position to lure players.",
+  "config.scp_unleashed.voice.scp939_voice_attraction": "SCP-939 hears voices",
+  "config.scp_unleashed.voice.scp939_voice_attraction.tooltip": "Only with anomaly voice recording on. Players talking through Simple Voice Chat draw SCP-939 toward where they spoke, about 32 blocks for normal speech and 6 for whispers. Nothing is recorded for this.",
+  "config.scp_unleashed.voice.scp939_lure_min_seconds": "SCP-939 stalking call, shortest gap",
+  "config.scp_unleashed.voice.scp939_lure_min_seconds.tooltip": "Shortest time in seconds between SCP-939 lure calls while it stalks prey or a voice it heard.",
+  "config.scp_unleashed.voice.scp939_lure_max_seconds": "SCP-939 stalking call, longest gap",
+  "config.scp_unleashed.voice.scp939_lure_max_seconds.tooltip": "Longest time in seconds between SCP-939 lure calls while it stalks prey or a voice it heard.",
+  "config.scp_unleashed.voice.scp939_idle_lure_min_seconds": "SCP-939 idle call, shortest gap",
+  "config.scp_unleashed.voice.scp939_idle_lure_min_seconds.tooltip": "Shortest time in seconds between SCP-939 lure calls while it has no prey but players are within 48 blocks.",
+  "config.scp_unleashed.voice.scp939_idle_lure_max_seconds": "SCP-939 idle call, longest gap",
+  "config.scp_unleashed.voice.scp939_idle_lure_max_seconds.tooltip": "Longest time in seconds between SCP-939 lure calls while it has no prey but players are within 48 blocks."
 }

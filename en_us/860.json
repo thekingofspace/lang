@@ -85,5 +85,7 @@
   "dossier.scp_unleashed.860.page.3.text.2": "Agent %rMarsh%r has declined all further tests. %rShe will not talk about the walk back.%r",
   "dossier.scp_unleashed.860.page.4.title": "Addendum 860-3: Provenance",
   "dossier.scp_unleashed.860.page.4.text": "SCP-860-1 has no recovery record. It was delivered, with its door, to a reader of this file. See field notes.",
-  "subtitles.scp_unleashed.scp860_roar": "Roar in the trees"
+  "subtitles.scp_unleashed.scp860_roar": "Roar in the trees",
+  "arrival.scp_unleashed.scp860_forest.title": "THE MISTWOOD",
+  "arrival.scp_unleashed.scp860_forest.subtitle": "The trees stand closer than before"
 }

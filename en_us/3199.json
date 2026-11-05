@@ -50,7 +50,7 @@
   "jade.scp_unleashed.scp3199.health": "Health: %s / %s",
   "jade.scp_unleashed.scp3199.hunting": "Hunting",
   "jade.scp_unleashed.scp3199.roaming": "Wandering",
-  "jade.scp_unleashed.scp3199.settled": "Settled in, pacing the same few steps",
+  "jade.scp_unleashed.scp3199.settled": "Settled in",
   "jade.scp_unleashed.scp3199.swimming": "Swimming",
   "jade.scp_unleashed.scp3199.maturing": "Maturing: %s%%",
   "entity.scp_unleashed.scp3199_egg": "SCP-3199 Egg"

@@ -1577,5 +1577,15 @@
   "gui.scp_unleashed.instability_matrix.status.dormant": "Dormant",
   "gui.scp_unleashed.instability_matrix.status.dormant.hint": "Rifts only form in the Overworld. It draws no power here.",
   "gui.scp_unleashed.instability_pylon.status.dormant": "Dormant",
-  "gui.scp_unleashed.instability_pylon.status.dormant.hint": "Rifts only form in the Overworld. The field cannot charge here."
+  "gui.scp_unleashed.instability_pylon.status.dormant.hint": "Rifts only form in the Overworld. The field cannot charge here.",
+  "hud.scp_unleashed.scarlet_rifle.cell": "CELL",
+  "hud.scp_unleashed.scarlet_rifle.recharging": "Recharging",
+  "title.scp_unleashed.scarlet_court.rises.0": "The Briar Crown rises",
+  "title.scp_unleashed.scarlet_court.falls.0": "The Briar Crown withers",
+  "title.scp_unleashed.scarlet_court.rises.1": "The Bride in Chains comes to the altar",
+  "title.scp_unleashed.scarlet_court.falls.1": "The Bride in Chains falls silent",
+  "title.scp_unleashed.scarlet_court.rises.2": "The Daughter of Eyes opens",
+  "title.scp_unleashed.scarlet_court.falls.2": "The Daughter of Eyes closes",
+  "title.scp_unleashed.scarlet_court.rises.3": "The Moon Daughter descends",
+  "title.scp_unleashed.scarlet_court.falls.3": "The Moon Daughter wanes away"
 }

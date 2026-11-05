@@ -521,5 +521,7 @@
   "commands.scp_unleashed.scp3008.find.found": "Nearest %s: %s, %s, %s (%s blocks away)",
   "commands.scp_unleashed.scp3008.find.none": "No %s anywhere near.",
   "commands.scp_unleashed.scp3008.find.unknown": "There is no department called %s.",
-  "commands.scp_unleashed.scp3008.find.teleported": "Moved to %s at %s, %s, %s."
+  "commands.scp_unleashed.scp3008.find.teleported": "Moved to %s at %s, %s, %s.",
+  "arrival.scp_unleashed.scp3008_store.title": "THE STORE",
+  "arrival.scp_unleashed.scp3008_store.subtitle": "We hope you find everything you need"
 }

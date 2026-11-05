@@ -9,7 +9,7 @@
       {
         "title": "Special Containment Procedures:",
         "text": [
-          "The sample of SCP-016 is held in a single sealed vial inside a powered cold locker. Sealed glass is a complete barrier. The vial is never opened outside a sealed cell, and nobody enters that cell without a sealed hood.",
+          "The sample of SCP-016 is held in a single sealed vial inside a powered cold locker. Sealed glass is a complete barrier. The vial is never opened outside a sealed cell, and nobody enters that cell without a full hazmat suit.",
           "Anyone exposed to an open sample is to be swabbed and the swab read in an analyzer. A positive subject is moved at once to a reinforced isolation cell. The subject will not want to go, and will be faster and stronger than the staff sent to move them. Send more staff.",
           "**There is no remedy.** Every positive subject becomes an instance of SCP-016-1 five minutes after exposure. That instance is to be contained or destroyed before it leaves the cell."
         ]
@@ -17,7 +17,7 @@
       {
         "title": "Description:",
         "text": [
-          "SCP-016 is a dense red fluid recovered as a single sealed vial. Sealed, it is inert. Open, it reaches any person or villager within sixteen metres with an unobstructed line to the sample. Solid material between the subject and the sample prevents exposure entirely; a sealed hood is sufficient protection.",
+          "SCP-016 is a dense red fluid recovered as a single sealed vial. Sealed, it is inert. Open, it reaches any person or villager within sixteen metres with an unobstructed line to the sample. Solid material between the subject and the sample prevents exposure entirely; a full hazmat suit is sufficient protection. A hood alone is not.",
           "Afflicted subjects report no discomfort. They report the opposite: a growing sense of speed and strength, and they are correct. Over the following minutes the subject grows steadily faster and then stronger, in four distinct stages, the last of them far beyond any trained runner or lifter. A faint red glitter can be seen on subjects in the later stages.",
           "Five minutes after exposure the subject comes apart, and a single instance of SCP-016-1 stands where the subject stood. Each instance is made from its subject: stretched, lopsided skin in several tones, with scraps of clothing, hair, nails and teeth caught up in it, and seams and patches of the same red as the sample.",
           "Most instances take one of three common forms. One is low and fast, with six finger-like legs, and climbs walls. One is heavy and hunched and strikes the ground hard enough to catch anyone beside its target. One is tall and thin, keeps its distance and throws shards of red crystal. Rarer forms have also been recorded: one that fights like a trained duellist, one that swells as it feeds, one at home in deep water and one that takes to the air. What rises appears to depend on how the host fell.",
@@ -91,7 +91,7 @@
   "subtitles.scp_unleashed.scp016_collapse": "Red crystal crumbles",
   "subtitles.scp_unleashed.scp016_stage": "Red crystal resonates",
   "jei.scp_unleashed.info.vial.scp016.1": "A sealed sample of SCP-016: a dense red fluid. While the seal holds it is completely inert.",
-  "jei.scp_unleashed.info.vial.scp016.2": "An open sample afflicts anyone within %1$s blocks with a clear line of sight. Solid blocks stop it, and a sealed hood or gas mask prevents airborne exposure.",
+  "jei.scp_unleashed.info.vial.scp016.2": "An open sample afflicts anyone within %1$s blocks with a clear line of sight. Solid blocks stop it. A gas mask or hood alone is not enough: only a full hazmat suit keeps it out.",
   "jei.scp_unleashed.info.vial.scp016.3": "The afflicted grow faster, then stronger, in four stages that rise toward the end. Only a swab read in an analyzer confirms it.",
   "jei.scp_unleashed.info.vial.scp016.4": "About %2$s minutes after exposure the subject splits apart and a single SCP-016-1 instance stands in its place. Its shape is not always the same. Players and villagers can be afflicted.",
   "jei.scp_unleashed.info.vial.scp016.5": "SCP-016-1 instances fall apart after about %3$s minutes, and at most %4$s stand at once in a dimension. Their hits pass SCP-016 on.",

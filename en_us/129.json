@@ -9,7 +9,7 @@
       {
         "title": "Special Containment Procedures:",
         "text": [
-          "The five primary cultures of SCP-129 are held in sealed vials inside a powered cold locker. Sealed glass is a complete barrier. **A gas mask is sufficient protection** against every strain. No suit is required, and none is issued.",
+          "The five primary cultures of SCP-129 are held in sealed vials inside a powered cold locker. Sealed glass is a complete barrier. **A full hazmat suit is required** against every strain. A gas mask alone is not sufficient.",
           "Personnel in contact with affected staff are to be swabbed, and the swab read in an analyzer, before they rejoin other personnel. Affected staff are kept apart from one another until their readings have been compared. Any reading that shows SCP-129-4 is to be reported to the duty researcher at once.",
           "A counter-agent prepared from the cultures themselves is kept beside the locker. %rPreparation is set out in Procedure 129-Verdant.%r"
         ]
@@ -18,7 +18,7 @@
         "title": "Description:",
         "text": [
           "SCP-129 is a fungus that exists as five distinct strains, numbered SCP-129-1 to SCP-129-5, each a different shade of green. It grows on nothing outside a culture dish. It lives in people.",
-          "Spores reach anyone with a clear line to an open culture, and they pass from any affected person to the people around them: across a room, in a cough, at arm's length or by touch. A gas mask stops them in both directions.",
+          "Spores reach anyone with a clear line to an open culture, and they pass from any affected person to the people around them: across a room, in a cough, at arm's length or by touch. A full hazmat suit stops them in both directions.",
           "Each strain shows itself differently. Carriers of SCP-129-1 fall into fits of coughing. SCP-129-2 blurs the sight for a few seconds at a time. SCP-129-3 stops its carriers dead: for a few seconds they can neither see nor walk, and every turn of the head comes slow and heavy. All three pass on their own. SCP-129-4 on its own causes a mild cough and nothing more. SCP-129-5 causes nothing at all, and it does not pass.",
           "**Two of the strains are not harmless together.** %rNeither is a strain staff worry about.%r Affected staff who are not treated within minutes do not recover."
         ]
@@ -75,8 +75,8 @@
   "commands.scp_unleashed.scp129.status.strain_held": " Strain %s: does not clear on its own",
   "commands.scp_unleashed.scp129.status.course": " Lethal course: stage %s of %s, %s s in, about %s s left",
   "commands.scp_unleashed.scp129.status.resisting": " Resisting: %s",
-  "commands.scp_unleashed.scp129.status.masked": " Wearing a gas mask: cannot catch or pass it on",
-  "commands.scp_unleashed.scp129.status.unmasked": " No gas mask",
+  "commands.scp_unleashed.scp129.status.masked": " Wearing a full hazmat suit: cannot catch or pass it on",
+  "commands.scp_unleashed.scp129.status.unmasked": " No full hazmat suit",
   "commands.scp_unleashed.scp129.advance.failed": "%s is not on the lethal course (it needs strains 4 and 5)",
   "commands.scp_unleashed.scp129.advance.success": "%s is now at stage %s, about %s s left",
   "commands.scp_unleashed.scp129.episode.kind": "%s is not an episode: use cough, blur or freeze",
@@ -86,27 +86,27 @@
   "archive.scp_unleashed.notes.scp129.1": "The contact finds the reader. Wait somewhere out in the open.",
   "labware.scp_unleashed.agent.scp129_1": "SCP-129-1",
   "jei.scp_unleashed.info.vial.scp129_1.1": "A sealed culture of SCP-129-1, a pale lime fungus. While the seal holds it is completely inert.",
-  "jei.scp_unleashed.info.vial.scp129_1.2": "An open culture reaches anyone within %1$s blocks with a clear line of sight. Solid blocks stop it, and a gas mask is all the protection needed.",
+  "jei.scp_unleashed.info.vial.scp129_1.2": "An open culture reaches anyone within %1$s blocks with a clear line of sight. Solid blocks stop it. A gas mask alone is not enough: only a full hazmat suit keeps it out.",
   "jei.scp_unleashed.info.vial.scp129_1.3": "Carriers fall into coughing fits now and then. The fits pass, and so does the strain, after a few minutes.",
   "jei.scp_unleashed.info.vial.scp129_1.4": "Carriers pass it on to the people around them: by breath, by coughing and by touch. Only a swab read in an analyzer shows which strains a person carries.",
   "labware.scp_unleashed.agent.scp129_2": "SCP-129-2",
   "jei.scp_unleashed.info.vial.scp129_2.1": "A sealed culture of SCP-129-2, a leaf-green fungus. While the seal holds it is completely inert.",
-  "jei.scp_unleashed.info.vial.scp129_2.2": "An open culture reaches anyone within %1$s blocks with a clear line of sight. Solid blocks stop it, and a gas mask is all the protection needed.",
+  "jei.scp_unleashed.info.vial.scp129_2.2": "An open culture reaches anyone within %1$s blocks with a clear line of sight. Solid blocks stop it. A gas mask alone is not enough: only a full hazmat suit keeps it out.",
   "jei.scp_unleashed.info.vial.scp129_2.3": "Carriers' sight swims out of focus for a few seconds at a time. It passes, and so does the strain, after a few minutes.",
   "jei.scp_unleashed.info.vial.scp129_2.4": "Carriers pass it on to the people around them: by breath, by coughing and by touch. Only a swab read in an analyzer shows which strains a person carries.",
   "labware.scp_unleashed.agent.scp129_3": "SCP-129-3",
   "jei.scp_unleashed.info.vial.scp129_3.1": "A sealed culture of SCP-129-3, a jade fungus. While the seal holds it is completely inert.",
-  "jei.scp_unleashed.info.vial.scp129_3.2": "An open culture reaches anyone within %1$s blocks with a clear line of sight. Solid blocks stop it, and a gas mask is all the protection needed.",
+  "jei.scp_unleashed.info.vial.scp129_3.2": "An open culture reaches anyone within %1$s blocks with a clear line of sight. Solid blocks stop it. A gas mask alone is not enough: only a full hazmat suit keeps it out.",
   "jei.scp_unleashed.info.vial.scp129_3.3": "Carriers stop dead now and then: for a few seconds they are blind, rooted to the spot and slow to turn. It passes, and so does the strain, after a few minutes.",
   "jei.scp_unleashed.info.vial.scp129_3.4": "Carriers pass it on to the people around them: by breath, by coughing and by touch. Only a swab read in an analyzer shows which strains a person carries.",
   "labware.scp_unleashed.agent.scp129_4": "SCP-129-4",
   "jei.scp_unleashed.info.vial.scp129_4.1": "A sealed culture of SCP-129-4, a deep moss-green fungus. While the seal holds it is completely inert.",
-  "jei.scp_unleashed.info.vial.scp129_4.2": "An open culture reaches anyone within %1$s blocks with a clear line of sight. Solid blocks stop it, and a gas mask is all the protection needed.",
+  "jei.scp_unleashed.info.vial.scp129_4.2": "An open culture reaches anyone within %1$s blocks with a clear line of sight. Solid blocks stop it. A gas mask alone is not enough: only a full hazmat suit keeps it out.",
   "jei.scp_unleashed.info.vial.scp129_4.3": "On its own it causes no more than a mild cough, and it clears after a few minutes.",
   "jei.scp_unleashed.info.vial.scp129_4.4": "Carriers pass it on to the people around them: by breath, by coughing and by touch. Only a swab read in an analyzer shows which strains a person carries.",
   "labware.scp_unleashed.agent.scp129_5": "SCP-129-5",
   "jei.scp_unleashed.info.vial.scp129_5.1": "A sealed culture of SCP-129-5, a blue-green fungus. While the seal holds it is completely inert.",
-  "jei.scp_unleashed.info.vial.scp129_5.2": "An open culture reaches anyone within %1$s blocks with a clear line of sight. Solid blocks stop it, and a gas mask is all the protection needed.",
+  "jei.scp_unleashed.info.vial.scp129_5.2": "An open culture reaches anyone within %1$s blocks with a clear line of sight. Solid blocks stop it. A gas mask alone is not enough: only a full hazmat suit keeps it out.",
   "jei.scp_unleashed.info.vial.scp129_5.3": "On its own it causes nothing anyone has noticed, and it does not clear by itself.",
   "jei.scp_unleashed.info.vial.scp129_5.4": "Carriers pass it on to the people around them: by breath, by coughing and by touch. Only a swab read in an analyzer shows which strains a person carries."
 }

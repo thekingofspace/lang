@@ -448,5 +448,19 @@
   "gamerule.scp4666DayMinutes": "SCP-4666: winter day length in minutes",
   "gamerule.scp4666AudioEvents": "SCP-4666: sound event share in percent",
   "gamerule.scp4666DayMinutes.description": "Real minutes for one full day inside the SCP-4666 winter. The default is 11.",
-  "gamerule.scp4666AudioEvents.description": "How often the sound only happenings in the SCP-4666 winter play, as a percent of their full rate. The default is 50."
+  "gamerule.scp4666AudioEvents.description": "How often the sound only happenings in the SCP-4666 winter play, as a percent of their full rate. The default is 50.",
+  "arrival.scp_unleashed.scp4666_winter.title": "THE WINTER COTTAGE",
+  "arrival.scp_unleashed.scp4666_winter.subtitle": "The snow has been expecting you",
+  "entity.scp_unleashed.scp4666_door_note": "Note",
+  "entity.scp_unleashed.scp4666_sighting": "SCP-4666",
+  "item.scp_unleashed.scp4666_saint_note": "Handwritten Note",
+  "item.scp_unleashed.scp4666_saint_note.text": "See you soon.",
+  "item.scp_unleashed.scp4666_saint_note.signed": "— Saint Nicholas",
+  "gui.scp_unleashed.scp4666_saint_note": "Note",
+  "subtitles.scp_unleashed.scp4666_sleigh_bells": "Bells jingle faintly",
+  "subtitles.scp_unleashed.scp4666_sighting_dive": "Snow bursts far away",
+  "commands.scp_unleashed.scp4666.christmas.note": "Left the note for %s",
+  "commands.scp_unleashed.scp4666.christmas.no_door": "No door near %s",
+  "commands.scp_unleashed.scp4666.christmas.sighting": "Showed the sighting to %s",
+  "commands.scp_unleashed.scp4666.christmas.no_spot": "No open ground in view of %s"
 }

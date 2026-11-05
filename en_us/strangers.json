@@ -54,7 +54,7 @@
     "scp016": [
       "You came out into the open. Good. This one should never be opened indoors.",
       "One vial. Keep it sealed and it poses no threat.",
-      "Open, it reaches anyone who can see it. A sealed door or a window can stop it Up close, a hazmat suit is enough.",
+      "Open, it reaches anyone who can see it. A sealed door or a window can stop it. Up close, only the whole hazmat suit is enough.",
       "The ones it reaches feel wonderful. Faster. Stronger. Every minute a little more.",
       "Five minutes. Then the red comes out of them, and it does not come out as one thing.",
       "What gets up depends on how they went down. Do not let it reach anyone else."
@@ -160,7 +160,7 @@
       "Open one and you will cough, or squint, or stand very still for a moment. It passes.",
       "It does not stay in the glass. It goes where people go, and it likes company.",
       "One of them is quiet. The quiet ones are the ones you should test for.",
-      "A gas mask is all you need. Mind which two of them you carry at once."
+      "A gas mask will not do. Wear the whole suit. Mind which two of them you carry at once."
     ],
     "scp107": [
       "You read the file, so you know what this is. A turtle's shell, empty, turned over and set up on four little legs.",
@@ -229,7 +229,7 @@
     "scp253": [
       "You read the whole file. Good. Most people stop at the photograph.",
       "One vial. Blue, like deep ice. Sealed, it does nothing at all.",
-      "Open, it reaches anyone who can see it. Glass stops it. A good hood stops it. Wishing does not.",
+      "Open, it reaches anyone who can see it. Glass stops it. A full suit stops it. Wishing does not.",
       "It does not hurt. You simply get slower, and hungrier, and the blue keeps spreading.",
       "Mind who you strike once you carry it. And mind where you stand when a carrier falls.",
       "Nobody has found a way to stop it. If you do, I would very much like to hear about it."
@@ -400,6 +400,35 @@
       "1": "I represent a very old firm. We offer one experience, and only one: a walk in the woods. Clean air, tall trees, a quiet path. It is an adventure only the rich can afford.",
       "2": "Congratulations. You have just become very rich indeed. The key, and the door it belongs to. Do try not to mislay either. Replacements are not available at any price.",
       "3": "Enjoy the forest. Everyone does, at first. When you have had your fill, you will find your way home. Most of our clients do. Good day."
+    },
+    "scp001_day": {
+      "0": "You read the file. Then you know nobody comes back from there easily.",
+      "1": "This shard is attuned to a city where the sun went wrong. Seat it in a Contained Gateway if you have to go.",
+      "2": "Keep to the shade. Nights are short there, but they are kinder than the days.",
+      "3": "Whatever you bring to eat will rot before you are hungry. Look for the tins.",
+      "4": "The few who came back all said the same thing. It opened right in front of them."
+    },
+    "scp1730": {
+      "0": "You read the file. Then you know Site-13 is still down there, and that it never stopped breaching.",
+      "1": "This is a shard of it. Seat it in a Contained Gateway and give the gate power. It will open.",
+      "2": "You keep what you carry. When you arrive you'll find something in your pocket that brings you home. Don't lose it.",
+      "3": "Some of the walls down there have been painted. Whatever you do, don't stop to admire the work.",
+      "4": "It goes further down than the blueprints say. If you reach the bottom, I hope you know what you're doing."
+    },
+    "scp610": {
+      "0": "You read the file. Good. Then you know why I am wearing all of this.",
+      "1": "One vial. It looks like meat left out in the sun. Sealed, that is all it is.",
+      "2": "A mask is not enough. If that seal ever breaks, wear the whole suit, every piece of it.",
+      "3": "If someone near you coughs red, step back. Do not wait to be sure.",
+      "4": "Whatever grows, burn it. And look down. It always goes down.",
+      "5": "The teams that went deepest stopped writing reports. I never asked why."
+    },
+    "scp2317": {
+      "0": "You read the file, so this is yours now. Mind the frame, it is heavier than it looks.",
+      "1": "It will not open for you. Not yet. There is another file it is waiting for you to read first, and I would rather you never did.",
+      "2": "If you do go through, come back the way you came. There is a second door in the sand. Do not wander off looking for a third.",
+      "3": "Whatever is under that desert has been asleep a long time. The people who built the ring thought they could keep it that way.",
+      "4": "They were very old people. I hope they were right."
     }
   },
   "entity.scp_unleashed.stranger_figure": "Mysterious Stranger",
@@ -434,5 +463,6 @@
   "stranger.scp_unleashed.scp500.2": "It only ever holds eight. Count them before you start handing them out.",
   "stranger.scp_unleashed.scp500.3": "Leave it be for a while and you will find it full again. Don't ask me how. I stopped asking.",
   "stranger.scp_unleashed.scp500.4": "Don't waste them on scratches. One day you will need one badly.",
-  "gui.scp_unleashed.stranger.plate.scp860_businessman": "Private Client"
+  "gui.scp_unleashed.stranger.plate.scp860_businessman": "Private Client",
+  "gui.scp_unleashed.stranger.plate.foundation": "Field Courier"
 }

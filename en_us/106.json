@@ -134,5 +134,7 @@
   "subtitles.scp_unleashed.scp106_restraint": "Restraints clank",
   "entity.scp_unleashed.scp106_portal": "Corrosion",
   "archive.scp_unleashed.dimension.scp_unleashed.scp106_pocket": "the pocket dimension",
-  "block.scp_unleashed.scp106_doorway.size": "Stands three blocks tall: the block you click is its foot"
+  "block.scp_unleashed.scp106_doorway.size": "Stands three blocks tall: the block you click is its foot",
+  "arrival.scp_unleashed.scp106_pocket.title": "THE POCKET DIMENSION",
+  "arrival.scp_unleashed.scp106_pocket.subtitle": "Nobody is coming to look for you"
 }

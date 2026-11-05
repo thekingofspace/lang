@@ -11,7 +11,7 @@
         "text": [
           "The primary sample of SCP-008 is held in a single sealed vial inside a powered cold locker. The locker is to remain powered at all times. Its hold on an unpowered locker is five minutes; after that the contents warm through and the sample is no longer secured by cold alone.",
           "A warmed locker is not to be opened. An opened, warmed locker vents its headspace into the room, and every vial inside it becomes an open source for as long as the hatch stands up.",
-          "Personnel handling an open vial are to wear a sealed hood. Anyone who has stood in a room with an open culture is to be swabbed and the swab read in a bacterial analyzer before leaving the wing.",
+          "Personnel handling an open vial are to wear a full hazmat suit: hood, suit, trousers and boots. Anyone who has stood in a room with an open culture is to be swabbed and the swab read in a bacterial analyzer before leaving the wing.",
           "**Sealed glass is a complete barrier. Air is not.** Nothing else in the procedure matters as much as that sentence."
         ]
       },
@@ -19,7 +19,7 @@
         "title": "Description:",
         "text": [
           "SCP-008 is a culture of an unidentified prion-like agent, recovered as a single sealed vial and never successfully traced to an origin. In its sealed state it is wholly inert and has no measurable effect at any distance.",
-          "An open culture is anomalously infective. Any living subject within sixteen metres of an open vial or an inoculated dish, with an unobstructed line to it, acquires the agent. Solid material between the subject and the culture prevents transmission entirely; distance alone does not. A sealed hood is sufficient protection. No other barrier tested has been.",
+          "An open culture is anomalously infective. Any living subject within sixteen metres of an open vial or an inoculated dish, with an unobstructed line to it, acquires the agent. Solid material between the subject and the culture prevents transmission entirely; distance alone does not. A full hazmat suit is sufficient protection. A hood or gas mask alone is not.",
           "Infection produces no symptoms. Subjects report no discomfort, show no fever, no pallor, no change in appetite, sleep or mood, and pass every standard physical. The agent cannot be detected by examination, interview or instinct. The only confirmed assay is a swab of the subject cultured in a bacterial analyzer, which returns a result in under a minute.",
           "The infection is dormant until the subject dies, by any cause. On death the body stands within seconds as SCP-008-1: hostile, ambulatory, and wearing the face and dress of the person it was. Instances strike at anything living, and every blow that lands passes the agent to the target. Instances decay on their own roughly twenty minutes after rising."
         ]
@@ -63,6 +63,6 @@
   "subtitles.scp_unleashed.scp008_zombie_collapse": "A body crumbles",
   "jei.scp_unleashed.info.vial.scp008.1": "A sealed culture of SCP-008. While the seal holds it is completely inert.",
   "jei.scp_unleashed.info.vial.scp008.2": "An open culture infects anyone within %1$s blocks with a clear line of sight. Solid blocks stop it.",
-  "jei.scp_unleashed.info.vial.scp008.3": "A sealed hood or gas mask prevents airborne exposure. Infection has no symptoms at all; only an analyzer can find it.",
+  "jei.scp_unleashed.info.vial.scp008.3": "Only a full hazmat suit prevents airborne exposure. A gas mask or hood alone is not enough. Infection has no symptoms at all; only an analyzer can find it.",
   "jei.scp_unleashed.info.vial.scp008.4": "Anyone infected who dies rises as SCP-008-1. It decays after about %2$s minutes, and at most %3$s stand at once in a dimension."
 }
